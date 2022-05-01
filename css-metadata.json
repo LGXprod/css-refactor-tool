@@ -1,0 +1,4970 @@
+[
+  {
+    "id": 0,
+    "cssFile": "original-dataset\\9292.nl\\index_files\\print.min.css",
+    "fileSize": 12203,
+    "numLines": 1,
+    "num_tags": 2803,
+    "num_classes": 82,
+    "num_ids": 18
+  },
+  {
+    "id": 1,
+    "cssFile": "original-dataset\\9292.nl\\index_files\\styles.min.css",
+    "fileSize": 172314,
+    "numLines": 9,
+    "num_tags": 39175,
+    "num_classes": 835,
+    "num_ids": 63
+  },
+  {
+    "id": 2,
+    "cssFile": "original-dataset\\9292.nl\\results\\run1\\print.min.css",
+    "fileSize": 13791,
+    "numLines": 159,
+    "num_tags": 2854,
+    "num_classes": 78,
+    "num_ids": 13
+  },
+  {
+    "id": 3,
+    "cssFile": "original-dataset\\9292.nl\\results\\run1\\styles.min.css",
+    "fileSize": 194633,
+    "numLines": 1949,
+    "num_tags": 39688,
+    "num_classes": 811,
+    "num_ids": 28
+  },
+  {
+    "id": 4,
+    "cssFile": "original-dataset\\9292.nl\\results\\run2\\print.min.css",
+    "fileSize": 13791,
+    "numLines": 159,
+    "num_tags": 2854,
+    "num_classes": 78,
+    "num_ids": 13
+  },
+  {
+    "id": 5,
+    "cssFile": "original-dataset\\9292.nl\\results\\run2\\styles.min.css",
+    "fileSize": 193682,
+    "numLines": 1941,
+    "num_tags": 39528,
+    "num_classes": 811,
+    "num_ids": 28
+  },
+  {
+    "id": 6,
+    "cssFile": "original-dataset\\About.com\\css\\18b91843bb4bcb07c2ba68a01bbb8a02b9eb4c50.css",
+    "fileSize": 206,
+    "numLines": 7,
+    "num_tags": 24,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 7,
+    "cssFile": "original-dataset\\About.com\\css\\48b84bd9de984ce24e9939934d5bfdb33a1f2ead.css",
+    "fileSize": 797,
+    "numLines": 19,
+    "num_tags": 106,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 8,
+    "cssFile": "original-dataset\\About.com\\css\\54c660b14dd08ca6b408f07de1f5080d251a4ef2.css",
+    "fileSize": 204,
+    "numLines": 7,
+    "num_tags": 22,
+    "num_classes": 3,
+    "num_ids": 0
+  },
+  {
+    "id": 9,
+    "cssFile": "original-dataset\\About.com\\css\\60ada4fc034b03f78a0786afe641d8001faf00fd.css",
+    "fileSize": 35633,
+    "numLines": 7,
+    "num_tags": 7553,
+    "num_classes": 102,
+    "num_ids": 19
+  },
+  {
+    "id": 10,
+    "cssFile": "original-dataset\\About.com\\results\\run1\\18b91843bb4bcb07c2ba68a01bbb8a02b9eb4c50.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 11,
+    "cssFile": "original-dataset\\About.com\\results\\run1\\48b84bd9de984ce24e9939934d5bfdb33a1f2ead.css",
+    "fileSize": 576,
+    "numLines": 13,
+    "num_tags": 78,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 12,
+    "cssFile": "original-dataset\\About.com\\results\\run1\\54c660b14dd08ca6b408f07de1f5080d251a4ef2.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 13,
+    "cssFile": "original-dataset\\About.com\\results\\run1\\60ada4fc034b03f78a0786afe641d8001faf00fd.css",
+    "fileSize": 30768,
+    "numLines": 415,
+    "num_tags": 5911,
+    "num_classes": 88,
+    "num_ids": 6
+  },
+  {
+    "id": 14,
+    "cssFile": "original-dataset\\About.com\\results\\run2\\18b91843bb4bcb07c2ba68a01bbb8a02b9eb4c50.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 15,
+    "cssFile": "original-dataset\\About.com\\results\\run2\\48b84bd9de984ce24e9939934d5bfdb33a1f2ead.css",
+    "fileSize": 576,
+    "numLines": 13,
+    "num_tags": 78,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 16,
+    "cssFile": "original-dataset\\About.com\\results\\run2\\54c660b14dd08ca6b408f07de1f5080d251a4ef2.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 17,
+    "cssFile": "original-dataset\\About.com\\results\\run2\\60ada4fc034b03f78a0786afe641d8001faf00fd.css",
+    "fileSize": 30741,
+    "numLines": 415,
+    "num_tags": 5913,
+    "num_classes": 88,
+    "num_ids": 6
+  },
+  {
+    "id": 18,
+    "cssFile": "original-dataset\\Alibaba\\css\\57dc993b92fc27f6b9b6a32d4fc288819f9b0b19.css",
+    "fileSize": 8098,
+    "numLines": 105,
+    "num_tags": 1967,
+    "num_classes": 47,
+    "num_ids": 13
+  },
+  {
+    "id": 19,
+    "cssFile": "original-dataset\\Alibaba\\css\\d8e76b82abbae61a4a89fb4000324c09b6413719.css",
+    "fileSize": 468,
+    "numLines": 7,
+    "num_tags": 95,
+    "num_classes": 3,
+    "num_ids": 0
+  },
+  {
+    "id": 20,
+    "cssFile": "original-dataset\\Alibaba\\css\\de701b0ad13b7bb7519a6c185837e5cc8daadee9.css",
+    "fileSize": 12725,
+    "numLines": 13,
+    "num_tags": 2751,
+    "num_classes": 54,
+    "num_ids": 26
+  },
+  {
+    "id": 21,
+    "cssFile": "original-dataset\\Alibaba\\css\\f20bbdc283941382159c1e12d655f54f1bdc68c2.css",
+    "fileSize": 300,
+    "numLines": 7,
+    "num_tags": 51,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 22,
+    "cssFile": "original-dataset\\Alibaba\\css\\fe397ac3e7d34d455bd1114d623b1e62aa8ee51c.css",
+    "fileSize": 64558,
+    "numLines": 7,
+    "num_tags": 14602,
+    "num_classes": 296,
+    "num_ids": 77
+  },
+  {
+    "id": 23,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\57dc993b92fc27f6b9b6a32d4fc288819f9b0b19(1).css",
+    "fileSize": 8434,
+    "numLines": 79,
+    "num_tags": 1954,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 24,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\57dc993b92fc27f6b9b6a32d4fc288819f9b0b19.css",
+    "fileSize": 8434,
+    "numLines": 79,
+    "num_tags": 1954,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 25,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\d8e76b82abbae61a4a89fb4000324c09b6413719.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 26,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\de701b0ad13b7bb7519a6c185837e5cc8daadee9.css",
+    "fileSize": 13620,
+    "numLines": 104,
+    "num_tags": 2690,
+    "num_classes": 51,
+    "num_ids": 7
+  },
+  {
+    "id": 27,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\f20bbdc283941382159c1e12d655f54f1bdc68c2.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 28,
+    "cssFile": "original-dataset\\Alibaba\\results\\run1\\fe397ac3e7d34d455bd1114d623b1e62aa8ee51c.css",
+    "fileSize": 77969,
+    "numLines": 839,
+    "num_tags": 15300,
+    "num_classes": 292,
+    "num_ids": 4
+  },
+  {
+    "id": 29,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\57dc993b92fc27f6b9b6a32d4fc288819f9b0b19(1).css",
+    "fileSize": 8434,
+    "numLines": 79,
+    "num_tags": 1954,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 30,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\57dc993b92fc27f6b9b6a32d4fc288819f9b0b19.css",
+    "fileSize": 8434,
+    "numLines": 79,
+    "num_tags": 1954,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 31,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\d8e76b82abbae61a4a89fb4000324c09b6413719.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 32,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\de701b0ad13b7bb7519a6c185837e5cc8daadee9.css",
+    "fileSize": 13620,
+    "numLines": 104,
+    "num_tags": 2685,
+    "num_classes": 51,
+    "num_ids": 7
+  },
+  {
+    "id": 33,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\f20bbdc283941382159c1e12d655f54f1bdc68c2.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 34,
+    "cssFile": "original-dataset\\Alibaba\\results\\run2\\fe397ac3e7d34d455bd1114d623b1e62aa8ee51c.css",
+    "fileSize": 77058,
+    "numLines": 827,
+    "num_tags": 15124,
+    "num_classes": 292,
+    "num_ids": 4
+  },
+  {
+    "id": 35,
+    "cssFile": "original-dataset\\Amazon.ca\\css\\215d30e22cff01a8fe1738267daa9fa0f72b34ea.css",
+    "fileSize": 22682,
+    "numLines": 1060,
+    "num_tags": 3194,
+    "num_classes": 87,
+    "num_ids": 5
+  },
+  {
+    "id": 36,
+    "cssFile": "original-dataset\\Amazon.ca\\css\\749150fdd6bae1eea4dd536fabee0afb01b59b2a.css",
+    "fileSize": 23765,
+    "numLines": 311,
+    "num_tags": 4694,
+    "num_classes": 51,
+    "num_ids": 8
+  },
+  {
+    "id": 37,
+    "cssFile": "original-dataset\\Amazon.ca\\css\\787de032101408178653e71aa16534a89284a083.css",
+    "fileSize": 7078,
+    "numLines": 45,
+    "num_tags": 1506,
+    "num_classes": 45,
+    "num_ids": 4
+  },
+  {
+    "id": 38,
+    "cssFile": "original-dataset\\Amazon.ca\\css\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05.css",
+    "fileSize": 93828,
+    "numLines": 8,
+    "num_tags": 21140,
+    "num_classes": 243,
+    "num_ids": 116
+  },
+  {
+    "id": 39,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(1).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 40,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(2).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 41,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(3).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 42,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\215d30e22cff01a8fe1738267daa9fa0f72b34ea.css",
+    "fileSize": 23518,
+    "numLines": 389,
+    "num_tags": 3361,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 43,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(1).css",
+    "fileSize": 26045,
+    "numLines": 307,
+    "num_tags": 4801,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 44,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(2).css",
+    "fileSize": 26045,
+    "numLines": 307,
+    "num_tags": 4801,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 45,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(3).css",
+    "fileSize": 26045,
+    "numLines": 307,
+    "num_tags": 4801,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 46,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\749150fdd6bae1eea4dd536fabee0afb01b59b2a.css",
+    "fileSize": 26045,
+    "numLines": 307,
+    "num_tags": 4801,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 47,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\787de032101408178653e71aa16534a89284a083(1).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 48,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\787de032101408178653e71aa16534a89284a083(2).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 49,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\787de032101408178653e71aa16534a89284a083(3).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 50,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\787de032101408178653e71aa16534a89284a083.css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 51,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(1).css",
+    "fileSize": 101399,
+    "numLines": 731,
+    "num_tags": 20894,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 52,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(2).css",
+    "fileSize": 101399,
+    "numLines": 731,
+    "num_tags": 20904,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 53,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(3).css",
+    "fileSize": 102553,
+    "numLines": 736,
+    "num_tags": 21091,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 54,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(4).css",
+    "fileSize": 99598,
+    "numLines": 714,
+    "num_tags": 20670,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 55,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(5).css",
+    "fileSize": 102553,
+    "numLines": 736,
+    "num_tags": 21089,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 56,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(6).css",
+    "fileSize": 102553,
+    "numLines": 736,
+    "num_tags": 21093,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 57,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(7).css",
+    "fileSize": 102553,
+    "numLines": 736,
+    "num_tags": 21104,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 58,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run1\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05.css",
+    "fileSize": 99641,
+    "numLines": 715,
+    "num_tags": 20677,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 59,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(1).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 60,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(2).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 61,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\215d30e22cff01a8fe1738267daa9fa0f72b34ea(3).css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 62,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\215d30e22cff01a8fe1738267daa9fa0f72b34ea.css",
+    "fileSize": 23464,
+    "numLines": 388,
+    "num_tags": 3360,
+    "num_classes": 84,
+    "num_ids": 2
+  },
+  {
+    "id": 63,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(1).css",
+    "fileSize": 25966,
+    "numLines": 306,
+    "num_tags": 4789,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 64,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(2).css",
+    "fileSize": 25966,
+    "numLines": 306,
+    "num_tags": 4789,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 65,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\749150fdd6bae1eea4dd536fabee0afb01b59b2a(3).css",
+    "fileSize": 25966,
+    "numLines": 306,
+    "num_tags": 4789,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 66,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\749150fdd6bae1eea4dd536fabee0afb01b59b2a.css",
+    "fileSize": 25966,
+    "numLines": 306,
+    "num_tags": 4789,
+    "num_classes": 40,
+    "num_ids": 1
+  },
+  {
+    "id": 67,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\787de032101408178653e71aa16534a89284a083(1).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 68,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\787de032101408178653e71aa16534a89284a083(2).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 69,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\787de032101408178653e71aa16534a89284a083(3).css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 70,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\787de032101408178653e71aa16534a89284a083.css",
+    "fileSize": 8026,
+    "numLines": 67,
+    "num_tags": 1585,
+    "num_classes": 41,
+    "num_ids": 1
+  },
+  {
+    "id": 71,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(1).css",
+    "fileSize": 101399,
+    "numLines": 731,
+    "num_tags": 20899,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 72,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(2).css",
+    "fileSize": 101399,
+    "numLines": 731,
+    "num_tags": 20897,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 73,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(3).css",
+    "fileSize": 102492,
+    "numLines": 735,
+    "num_tags": 21078,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 74,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(4).css",
+    "fileSize": 99598,
+    "numLines": 714,
+    "num_tags": 20668,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 75,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(5).css",
+    "fileSize": 102492,
+    "numLines": 735,
+    "num_tags": 21095,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 76,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(6).css",
+    "fileSize": 102492,
+    "numLines": 735,
+    "num_tags": 21080,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 77,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05(7).css",
+    "fileSize": 102492,
+    "numLines": 735,
+    "num_tags": 21086,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 78,
+    "cssFile": "original-dataset\\Amazon.ca\\results\\run2\\d96313390c86b5833d30fbe6a5ed905fd3a0ea05.css",
+    "fileSize": 99641,
+    "numLines": 715,
+    "num_tags": 20675,
+    "num_classes": 239,
+    "num_ids": 56
+  },
+  {
+    "id": 79,
+    "cssFile": "original-dataset\\Apple.com\\css\\795c624106a3fdae19fe5ba40644ad917fded7c5.css",
+    "fileSize": 11000,
+    "numLines": 169,
+    "num_tags": 2236,
+    "num_classes": 32,
+    "num_ids": 21
+  },
+  {
+    "id": 80,
+    "cssFile": "original-dataset\\Apple.com\\css\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 3428,
+    "numLines": 73,
+    "num_tags": 611,
+    "num_classes": 18,
+    "num_ids": 4
+  },
+  {
+    "id": 81,
+    "cssFile": "original-dataset\\Apple.com\\css\\8aa6ff74b12903187f412b398bfe5900ec0b7f30.css",
+    "fileSize": 24562,
+    "numLines": 257,
+    "num_tags": 2755,
+    "num_classes": 23,
+    "num_ids": 15
+  },
+  {
+    "id": 82,
+    "cssFile": "original-dataset\\Apple.com\\css\\91cab95bff78fd3800625c0789cd87c0e4180299.css",
+    "fileSize": 216,
+    "numLines": 7,
+    "num_tags": 31,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 83,
+    "cssFile": "original-dataset\\Apple.com\\css\\cbdd8fe416a62a38a6c43224127d2641b394bb05.css",
+    "fileSize": 39240,
+    "numLines": 477,
+    "num_tags": 8576,
+    "num_classes": 128,
+    "num_ids": 24
+  },
+  {
+    "id": 84,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\795c624106a3fdae19fe5ba40644ad917fded7c5(1).css",
+    "fileSize": 10465,
+    "numLines": 98,
+    "num_tags": 2173,
+    "num_classes": 26,
+    "num_ids": 18
+  },
+  {
+    "id": 85,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\795c624106a3fdae19fe5ba40644ad917fded7c5.css",
+    "fileSize": 10272,
+    "numLines": 96,
+    "num_tags": 2160,
+    "num_classes": 26,
+    "num_ids": 18
+  },
+  {
+    "id": 86,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 3373,
+    "numLines": 42,
+    "num_tags": 600,
+    "num_classes": 14,
+    "num_ids": 2
+  },
+  {
+    "id": 87,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\8aa6ff74b12903187f412b398bfe5900ec0b7f30(1).css",
+    "fileSize": 14813,
+    "numLines": 58,
+    "num_tags": 2030,
+    "num_classes": 20,
+    "num_ids": 15
+  },
+  {
+    "id": 88,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\8aa6ff74b12903187f412b398bfe5900ec0b7f30.css",
+    "fileSize": 14813,
+    "numLines": 58,
+    "num_tags": 2030,
+    "num_classes": 20,
+    "num_ids": 15
+  },
+  {
+    "id": 89,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\91cab95bff78fd3800625c0789cd87c0e4180299.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 90,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\cbdd8fe416a62a38a6c43224127d2641b394bb05(1).css",
+    "fileSize": 34352,
+    "numLines": 294,
+    "num_tags": 7435,
+    "num_classes": 121,
+    "num_ids": 17
+  },
+  {
+    "id": 91,
+    "cssFile": "original-dataset\\Apple.com\\results\\run1\\cbdd8fe416a62a38a6c43224127d2641b394bb05.css",
+    "fileSize": 34779,
+    "numLines": 299,
+    "num_tags": 7491,
+    "num_classes": 121,
+    "num_ids": 17
+  },
+  {
+    "id": 92,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\795c624106a3fdae19fe5ba40644ad917fded7c5(1).css",
+    "fileSize": 10383,
+    "numLines": 97,
+    "num_tags": 2163,
+    "num_classes": 26,
+    "num_ids": 18
+  },
+  {
+    "id": 93,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\795c624106a3fdae19fe5ba40644ad917fded7c5.css",
+    "fileSize": 10190,
+    "numLines": 95,
+    "num_tags": 2146,
+    "num_classes": 26,
+    "num_ids": 18
+  },
+  {
+    "id": 94,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 3299,
+    "numLines": 41,
+    "num_tags": 586,
+    "num_classes": 14,
+    "num_ids": 2
+  },
+  {
+    "id": 95,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\8aa6ff74b12903187f412b398bfe5900ec0b7f30(1).css",
+    "fileSize": 14595,
+    "numLines": 57,
+    "num_tags": 1986,
+    "num_classes": 20,
+    "num_ids": 15
+  },
+  {
+    "id": 96,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\8aa6ff74b12903187f412b398bfe5900ec0b7f30.css",
+    "fileSize": 14595,
+    "numLines": 57,
+    "num_tags": 1986,
+    "num_classes": 20,
+    "num_ids": 15
+  },
+  {
+    "id": 97,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\91cab95bff78fd3800625c0789cd87c0e4180299.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 98,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\cbdd8fe416a62a38a6c43224127d2641b394bb05(1).css",
+    "fileSize": 34304,
+    "numLines": 294,
+    "num_tags": 7435,
+    "num_classes": 121,
+    "num_ids": 17
+  },
+  {
+    "id": 99,
+    "cssFile": "original-dataset\\Apple.com\\results\\run2\\cbdd8fe416a62a38a6c43224127d2641b394bb05.css",
+    "fileSize": 34323,
+    "numLines": 294,
+    "num_tags": 7433,
+    "num_classes": 121,
+    "num_ids": 17
+  },
+  {
+    "id": 100,
+    "cssFile": "original-dataset\\BBC\\css\\02c4042bbee605ba044d577588e8f1393ba5eeb4.css",
+    "fileSize": 30276,
+    "numLines": 7,
+    "num_tags": 7037,
+    "num_classes": 137,
+    "num_ids": 105
+  },
+  {
+    "id": 101,
+    "cssFile": "original-dataset\\BBC\\css\\79e92efbf71f29370d356a3bbf80edd2aab3b106.css",
+    "fileSize": 46413,
+    "numLines": 7,
+    "num_tags": 10361,
+    "num_classes": 188,
+    "num_ids": 114
+  },
+  {
+    "id": 102,
+    "cssFile": "original-dataset\\BBC\\css\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 30719,
+    "numLines": 7,
+    "num_tags": 7312,
+    "num_classes": 87,
+    "num_ids": 85
+  },
+  {
+    "id": 103,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\02c4042bbee605ba044d577588e8f1393ba5eeb4(1).css",
+    "fileSize": 35319,
+    "numLines": 356,
+    "num_tags": 7382,
+    "num_classes": 132,
+    "num_ids": 80
+  },
+  {
+    "id": 104,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\02c4042bbee605ba044d577588e8f1393ba5eeb4.css",
+    "fileSize": 35319,
+    "numLines": 356,
+    "num_tags": 7385,
+    "num_classes": 132,
+    "num_ids": 80
+  },
+  {
+    "id": 105,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\79e92efbf71f29370d356a3bbf80edd2aab3b106(1).css",
+    "fileSize": 55153,
+    "numLines": 638,
+    "num_tags": 10945,
+    "num_classes": 184,
+    "num_ids": 83
+  },
+  {
+    "id": 106,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\79e92efbf71f29370d356a3bbf80edd2aab3b106.css",
+    "fileSize": 55153,
+    "numLines": 638,
+    "num_tags": 10948,
+    "num_classes": 184,
+    "num_ids": 83
+  },
+  {
+    "id": 107,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\d2d0c126e221862f95d864a277f51ca3d4295385(1).css",
+    "fileSize": 37439,
+    "numLines": 361,
+    "num_tags": 7726,
+    "num_classes": 80,
+    "num_ids": 57
+  },
+  {
+    "id": 108,
+    "cssFile": "original-dataset\\BBC\\results\\run1\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 37439,
+    "numLines": 361,
+    "num_tags": 7716,
+    "num_classes": 80,
+    "num_ids": 57
+  },
+  {
+    "id": 109,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\02c4042bbee605ba044d577588e8f1393ba5eeb4(1).css",
+    "fileSize": 34539,
+    "numLines": 351,
+    "num_tags": 7238,
+    "num_classes": 132,
+    "num_ids": 80
+  },
+  {
+    "id": 110,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\02c4042bbee605ba044d577588e8f1393ba5eeb4.css",
+    "fileSize": 34539,
+    "numLines": 351,
+    "num_tags": 7243,
+    "num_classes": 132,
+    "num_ids": 80
+  },
+  {
+    "id": 111,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\79e92efbf71f29370d356a3bbf80edd2aab3b106(1).css",
+    "fileSize": 54954,
+    "numLines": 635,
+    "num_tags": 10923,
+    "num_classes": 184,
+    "num_ids": 83
+  },
+  {
+    "id": 112,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\79e92efbf71f29370d356a3bbf80edd2aab3b106.css",
+    "fileSize": 54954,
+    "numLines": 635,
+    "num_tags": 10925,
+    "num_classes": 184,
+    "num_ids": 83
+  },
+  {
+    "id": 113,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\d2d0c126e221862f95d864a277f51ca3d4295385(1).css",
+    "fileSize": 34716,
+    "numLines": 336,
+    "num_tags": 7360,
+    "num_classes": 80,
+    "num_ids": 57
+  },
+  {
+    "id": 114,
+    "cssFile": "original-dataset\\BBC\\results\\run2\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 34716,
+    "numLines": 336,
+    "num_tags": 7360,
+    "num_classes": 80,
+    "num_ids": 57
+  },
+  {
+    "id": 115,
+    "cssFile": "original-dataset\\BeckerElectric\\index_files\\style.css",
+    "fileSize": 21492,
+    "numLines": 1170,
+    "num_tags": 3224,
+    "num_classes": 110,
+    "num_ids": 9
+  },
+  {
+    "id": 116,
+    "cssFile": "original-dataset\\BeckerElectric\\results\\run1\\style.css",
+    "fileSize": 17517,
+    "numLines": 171,
+    "num_tags": 3124,
+    "num_classes": 109,
+    "num_ids": 3
+  },
+  {
+    "id": 117,
+    "cssFile": "original-dataset\\BeckerElectric\\results\\run2\\style.css",
+    "fileSize": 17051,
+    "numLines": 168,
+    "num_tags": 3060,
+    "num_classes": 109,
+    "num_ids": 3
+  },
+  {
+    "id": 118,
+    "cssFile": "original-dataset\\CNN\\css\\4fabb167a190210b1e5df31383549bdde6e8a1e7.css",
+    "fileSize": 232673,
+    "numLines": 35,
+    "num_tags": 45306,
+    "num_classes": 706,
+    "num_ids": 243
+  },
+  {
+    "id": 119,
+    "cssFile": "original-dataset\\CNN\\results\\run1\\4fabb167a190210b1e5df31383549bdde6e8a1e7.css",
+    "fileSize": 264674,
+    "numLines": 2663,
+    "num_tags": 47488,
+    "num_classes": 683,
+    "num_ids": 184
+  },
+  {
+    "id": 120,
+    "cssFile": "original-dataset\\CNN\\results\\run2\\4fabb167a190210b1e5df31383549bdde6e8a1e7.css",
+    "fileSize": 260625,
+    "numLines": 2624,
+    "num_tags": 46967,
+    "num_classes": 683,
+    "num_ids": 184
+  },
+  {
+    "id": 121,
+    "cssFile": "original-dataset\\Craigslist\\css\\9011f6155e054b15331a3bc5b52d858060fc327e.css",
+    "fileSize": 56353,
+    "numLines": 8,
+    "num_tags": 12706,
+    "num_classes": 287,
+    "num_ids": 197
+  },
+  {
+    "id": 122,
+    "cssFile": "original-dataset\\Craigslist\\css\\90350bfe15aebac688abac9c413673387c4006bd.css",
+    "fileSize": 11181,
+    "numLines": 514,
+    "num_tags": 1590,
+    "num_classes": 64,
+    "num_ids": 5
+  },
+  {
+    "id": 123,
+    "cssFile": "original-dataset\\Craigslist\\css\\c7c9fc484c8fa1df67bf32c45e3ab12e0d2e5d25.css",
+    "fileSize": 1544,
+    "numLines": 66,
+    "num_tags": 235,
+    "num_classes": 6,
+    "num_ids": 0
+  },
+  {
+    "id": 124,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\9011f6155e054b15331a3bc5b52d858060fc327e(1).css",
+    "fileSize": 67239,
+    "numLines": 844,
+    "num_tags": 12968,
+    "num_classes": 272,
+    "num_ids": 111
+  },
+  {
+    "id": 125,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\9011f6155e054b15331a3bc5b52d858060fc327e.css",
+    "fileSize": 67239,
+    "numLines": 844,
+    "num_tags": 12968,
+    "num_classes": 272,
+    "num_ids": 111
+  },
+  {
+    "id": 126,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\90350bfe15aebac688abac9c413673387c4006bd(1).css",
+    "fileSize": 9588,
+    "numLines": 103,
+    "num_tags": 1463,
+    "num_classes": 60,
+    "num_ids": 0
+  },
+  {
+    "id": 127,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\90350bfe15aebac688abac9c413673387c4006bd.css",
+    "fileSize": 9588,
+    "numLines": 103,
+    "num_tags": 1460,
+    "num_classes": 60,
+    "num_ids": 0
+  },
+  {
+    "id": 128,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\c7c9fc484c8fa1df67bf32c45e3ab12e0d2e5d25(1).css",
+    "fileSize": 1212,
+    "numLines": 16,
+    "num_tags": 196,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 129,
+    "cssFile": "original-dataset\\Craigslist\\results\\run1\\c7c9fc484c8fa1df67bf32c45e3ab12e0d2e5d25.css",
+    "fileSize": 1212,
+    "numLines": 16,
+    "num_tags": 196,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 130,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\9011f6155e054b15331a3bc5b52d858060fc327e(1).css",
+    "fileSize": 67239,
+    "numLines": 844,
+    "num_tags": 12968,
+    "num_classes": 272,
+    "num_ids": 111
+  },
+  {
+    "id": 131,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\9011f6155e054b15331a3bc5b52d858060fc327e.css",
+    "fileSize": 67239,
+    "numLines": 844,
+    "num_tags": 12968,
+    "num_classes": 272,
+    "num_ids": 111
+  },
+  {
+    "id": 132,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\90350bfe15aebac688abac9c413673387c4006bd(1).css",
+    "fileSize": 9238,
+    "numLines": 101,
+    "num_tags": 1402,
+    "num_classes": 60,
+    "num_ids": 0
+  },
+  {
+    "id": 133,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\90350bfe15aebac688abac9c413673387c4006bd.css",
+    "fileSize": 9238,
+    "numLines": 101,
+    "num_tags": 1402,
+    "num_classes": 60,
+    "num_ids": 0
+  },
+  {
+    "id": 134,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\c7c9fc484c8fa1df67bf32c45e3ab12e0d2e5d25(1).css",
+    "fileSize": 1212,
+    "numLines": 16,
+    "num_tags": 196,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 135,
+    "cssFile": "original-dataset\\Craigslist\\results\\run2\\c7c9fc484c8fa1df67bf32c45e3ab12e0d2e5d25.css",
+    "fileSize": 1212,
+    "numLines": 16,
+    "num_tags": 196,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 136,
+    "cssFile": "original-dataset\\Ebay\\css\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32.css",
+    "fileSize": 104911,
+    "numLines": 7,
+    "num_tags": 19192,
+    "num_classes": 353,
+    "num_ids": 151
+  },
+  {
+    "id": 137,
+    "cssFile": "original-dataset\\Ebay\\css\\74b38524f4ef412ade0ec58e889fb9126ed40e65.css",
+    "fileSize": 5765,
+    "numLines": 70,
+    "num_tags": 1176,
+    "num_classes": 7,
+    "num_ids": 1
+  },
+  {
+    "id": 138,
+    "cssFile": "original-dataset\\Ebay\\css\\d462139a966e73fca034dcf10436e38852c6074d.css",
+    "fileSize": 48413,
+    "numLines": 8,
+    "num_tags": 10329,
+    "num_classes": 319,
+    "num_ids": 139
+  },
+  {
+    "id": 139,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(1).css",
+    "fileSize": 108506,
+    "numLines": 908,
+    "num_tags": 17849,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 140,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(2).css",
+    "fileSize": 109016,
+    "numLines": 912,
+    "num_tags": 17936,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 141,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(3).css",
+    "fileSize": 108506,
+    "numLines": 908,
+    "num_tags": 17852,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 142,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(4).css",
+    "fileSize": 108506,
+    "numLines": 908,
+    "num_tags": 17845,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 143,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(5).css",
+    "fileSize": 109016,
+    "numLines": 912,
+    "num_tags": 17925,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 144,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(6).css",
+    "fileSize": 109016,
+    "numLines": 912,
+    "num_tags": 17942,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 145,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(7).css",
+    "fileSize": 108506,
+    "numLines": 908,
+    "num_tags": 17852,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 146,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(8).css",
+    "fileSize": 108548,
+    "numLines": 908,
+    "num_tags": 17847,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 147,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(9).css",
+    "fileSize": 108548,
+    "numLines": 908,
+    "num_tags": 17860,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 148,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32.css",
+    "fileSize": 109016,
+    "numLines": 912,
+    "num_tags": 17938,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 149,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(1).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 150,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(2).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 151,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(3).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 152,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(4).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 153,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(5).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 154,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(6).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 155,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(7).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 156,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(8).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 157,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65(9).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 158,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\74b38524f4ef412ade0ec58e889fb9126ed40e65.css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 159,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(1).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10181,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 160,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(2).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10176,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 161,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(3).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10179,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 162,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(4).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10178,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 163,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(5).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10188,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 164,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(6).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10171,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 165,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(7).css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10171,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 166,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(8).css",
+    "fileSize": 55510,
+    "numLines": 628,
+    "num_tags": 10170,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 167,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d(9).css",
+    "fileSize": 55510,
+    "numLines": 628,
+    "num_tags": 10166,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 168,
+    "cssFile": "original-dataset\\Ebay\\results\\run1\\d462139a966e73fca034dcf10436e38852c6074d.css",
+    "fileSize": 55580,
+    "numLines": 629,
+    "num_tags": 10171,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 169,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(1).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17788,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 170,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(2).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17788,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 171,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(3).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17786,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 172,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(4).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17784,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 173,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(5).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17785,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 174,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(6).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17787,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 175,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(7).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17785,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 176,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(8).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17788,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 177,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32(9).css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17787,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 178,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\6bc1cb5bc549fd78fb906bb424e26d210ebc1e32.css",
+    "fileSize": 108015,
+    "numLines": 901,
+    "num_tags": 17786,
+    "num_classes": 322,
+    "num_ids": 28
+  },
+  {
+    "id": 179,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(1).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 180,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(2).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 181,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(3).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 182,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(4).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 183,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(5).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 184,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(6).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 185,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(7).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 186,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(8).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 187,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65(9).css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 188,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\74b38524f4ef412ade0ec58e889fb9126ed40e65.css",
+    "fileSize": 6047,
+    "numLines": 58,
+    "num_tags": 1150,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 189,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(1).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10035,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 190,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(2).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10036,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 191,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(3).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10035,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 192,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(4).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10034,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 193,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(5).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10033,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 194,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(6).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10034,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 195,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(7).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10034,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 196,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(8).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10033,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 197,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d(9).css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10034,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 198,
+    "cssFile": "original-dataset\\Ebay\\results\\run2\\d462139a966e73fca034dcf10436e38852c6074d.css",
+    "fileSize": 54331,
+    "numLines": 616,
+    "num_tags": 10036,
+    "num_classes": 296,
+    "num_ids": 76
+  },
+  {
+    "id": 199,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\02364482bef146287086f085b8a4956b774b70e2.css",
+    "fileSize": 4600,
+    "numLines": 75,
+    "num_tags": 827,
+    "num_classes": 9,
+    "num_ids": 25
+  },
+  {
+    "id": 200,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\27e0cbf627f6d6d757b7ed4f93adf0c81c59a972.css",
+    "fileSize": 4406,
+    "numLines": 255,
+    "num_tags": 731,
+    "num_classes": 29,
+    "num_ids": 4
+  },
+  {
+    "id": 201,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\5c13aa95c637061be87e8d4c67dcbfeb4873acdc.css",
+    "fileSize": 2541,
+    "numLines": 129,
+    "num_tags": 432,
+    "num_classes": 16,
+    "num_ids": 0
+  },
+  {
+    "id": 202,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\8b6cc12cdf0ae92cf3e741347de9b1708868bf97.css",
+    "fileSize": 998,
+    "numLines": 60,
+    "num_tags": 209,
+    "num_classes": 5,
+    "num_ids": 2
+  },
+  {
+    "id": 203,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\97bf915c7a24a0ba22e27633382d05cef641df92.css",
+    "fileSize": 37177,
+    "numLines": 1829,
+    "num_tags": 6291,
+    "num_classes": 113,
+    "num_ids": 27
+  },
+  {
+    "id": 204,
+    "cssFile": "original-dataset\\EmployeeSolutions\\css\\cf2755fb11226ffeda2020825ec82822c087d290.css",
+    "fileSize": 2697,
+    "numLines": 102,
+    "num_tags": 471,
+    "num_classes": 14,
+    "num_ids": 1
+  },
+  {
+    "id": 205,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\02364482bef146287086f085b8a4956b774b70e2.css",
+    "fileSize": 3863,
+    "numLines": 40,
+    "num_tags": 700,
+    "num_classes": 5,
+    "num_ids": 22
+  },
+  {
+    "id": 206,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\27e0cbf627f6d6d757b7ed4f93adf0c81c59a972.css",
+    "fileSize": 3709,
+    "numLines": 35,
+    "num_tags": 647,
+    "num_classes": 25,
+    "num_ids": 1
+  },
+  {
+    "id": 207,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\5c13aa95c637061be87e8d4c67dcbfeb4873acdc.css",
+    "fileSize": 1997,
+    "numLines": 20,
+    "num_tags": 384,
+    "num_classes": 14,
+    "num_ids": 0
+  },
+  {
+    "id": 208,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\8b6cc12cdf0ae92cf3e741347de9b1708868bf97.css",
+    "fileSize": 780,
+    "numLines": 10,
+    "num_tags": 173,
+    "num_classes": 3,
+    "num_ids": 1
+  },
+  {
+    "id": 209,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\97bf915c7a24a0ba22e27633382d05cef641df92.css",
+    "fileSize": 28818,
+    "numLines": 326,
+    "num_tags": 5070,
+    "num_classes": 105,
+    "num_ids": 14
+  },
+  {
+    "id": 210,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run1\\cf2755fb11226ffeda2020825ec82822c087d290.css",
+    "fileSize": 1595,
+    "numLines": 16,
+    "num_tags": 333,
+    "num_classes": 11,
+    "num_ids": 1
+  },
+  {
+    "id": 211,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\02364482bef146287086f085b8a4956b774b70e2.css",
+    "fileSize": 3863,
+    "numLines": 40,
+    "num_tags": 700,
+    "num_classes": 5,
+    "num_ids": 22
+  },
+  {
+    "id": 212,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\27e0cbf627f6d6d757b7ed4f93adf0c81c59a972.css",
+    "fileSize": 3709,
+    "numLines": 35,
+    "num_tags": 647,
+    "num_classes": 25,
+    "num_ids": 1
+  },
+  {
+    "id": 213,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\5c13aa95c637061be87e8d4c67dcbfeb4873acdc.css",
+    "fileSize": 1997,
+    "numLines": 20,
+    "num_tags": 384,
+    "num_classes": 14,
+    "num_ids": 0
+  },
+  {
+    "id": 214,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\8b6cc12cdf0ae92cf3e741347de9b1708868bf97.css",
+    "fileSize": 780,
+    "numLines": 10,
+    "num_tags": 173,
+    "num_classes": 3,
+    "num_ids": 1
+  },
+  {
+    "id": 215,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\97bf915c7a24a0ba22e27633382d05cef641df92.css",
+    "fileSize": 28574,
+    "numLines": 324,
+    "num_tags": 5031,
+    "num_classes": 105,
+    "num_ids": 14
+  },
+  {
+    "id": 216,
+    "cssFile": "original-dataset\\EmployeeSolutions\\results\\run2\\cf2755fb11226ffeda2020825ec82822c087d290.css",
+    "fileSize": 1595,
+    "numLines": 16,
+    "num_tags": 333,
+    "num_classes": 11,
+    "num_ids": 1
+  },
+  {
+    "id": 217,
+    "cssFile": "original-dataset\\Equus\\css\\33fb60dfaceef8d18b6905460c81b39084f99cbb.css",
+    "fileSize": 4850,
+    "numLines": 150,
+    "num_tags": 834,
+    "num_classes": 19,
+    "num_ids": 1
+  },
+  {
+    "id": 218,
+    "cssFile": "original-dataset\\Equus\\results\\run1\\33fb60dfaceef8d18b6905460c81b39084f99cbb.css",
+    "fileSize": 4782,
+    "numLines": 42,
+    "num_tags": 829,
+    "num_classes": 17,
+    "num_ids": 1
+  },
+  {
+    "id": 219,
+    "cssFile": "original-dataset\\Equus\\results\\run2\\33fb60dfaceef8d18b6905460c81b39084f99cbb.css",
+    "fileSize": 4782,
+    "numLines": 42,
+    "num_tags": 829,
+    "num_classes": 17,
+    "num_ids": 1
+  },
+  {
+    "id": 220,
+    "cssFile": "original-dataset\\Facebook\\index_files\\1GsqYFnXaZQ.css",
+    "fileSize": 34970,
+    "numLines": 523,
+    "num_tags": 6964,
+    "num_classes": 213,
+    "num_ids": 33
+  },
+  {
+    "id": 221,
+    "cssFile": "original-dataset\\Facebook\\index_files\\4sBHX11vlXQ.css",
+    "fileSize": 18811,
+    "numLines": 161,
+    "num_tags": 4057,
+    "num_classes": 115,
+    "num_ids": 7
+  },
+  {
+    "id": 222,
+    "cssFile": "original-dataset\\Facebook\\index_files\\6ZSNbvjzzsN.css",
+    "fileSize": 24645,
+    "numLines": 286,
+    "num_tags": 4746,
+    "num_classes": 108,
+    "num_ids": 21
+  },
+  {
+    "id": 223,
+    "cssFile": "original-dataset\\Facebook\\index_files\\f-HZjbzltwo.css",
+    "fileSize": 97031,
+    "numLines": 1117,
+    "num_tags": 19690,
+    "num_classes": 461,
+    "num_ids": 50
+  },
+  {
+    "id": 224,
+    "cssFile": "original-dataset\\Facebook\\index_files\\jWW0F340qt4.css",
+    "fileSize": 241573,
+    "numLines": 2664,
+    "num_tags": 45581,
+    "num_classes": 592,
+    "num_ids": 101
+  },
+  {
+    "id": 225,
+    "cssFile": "original-dataset\\Facebook\\index_files\\kWhCpBXaUpv.css",
+    "fileSize": 13945,
+    "numLines": 222,
+    "num_tags": 2779,
+    "num_classes": 127,
+    "num_ids": 8
+  },
+  {
+    "id": 226,
+    "cssFile": "original-dataset\\Facebook\\index_files\\PXJmhQlvJQ7.css",
+    "fileSize": 37013,
+    "numLines": 526,
+    "num_tags": 7364,
+    "num_classes": 227,
+    "num_ids": 45
+  },
+  {
+    "id": 227,
+    "cssFile": "original-dataset\\Facebook\\index_files\\qHLPZgjMqV4.css",
+    "fileSize": 104300,
+    "numLines": 1157,
+    "num_tags": 20211,
+    "num_classes": 334,
+    "num_ids": 92
+  },
+  {
+    "id": 228,
+    "cssFile": "original-dataset\\Facebook\\index_files\\tssmvtp3K2t.css",
+    "fileSize": 5079,
+    "numLines": 64,
+    "num_tags": 1045,
+    "num_classes": 65,
+    "num_ids": 5
+  },
+  {
+    "id": 229,
+    "cssFile": "original-dataset\\Facebook\\index_files\\zY6V8rygKPY.css",
+    "fileSize": 52216,
+    "numLines": 571,
+    "num_tags": 9339,
+    "num_classes": 256,
+    "num_ids": 23
+  },
+  {
+    "id": 230,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\1GsqYFnXaZQ.css",
+    "fileSize": 41579,
+    "numLines": 521,
+    "num_tags": 7293,
+    "num_classes": 210,
+    "num_ids": 7
+  },
+  {
+    "id": 231,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\4sBHX11vlXQ.css",
+    "fileSize": 20725,
+    "numLines": 159,
+    "num_tags": 4214,
+    "num_classes": 113,
+    "num_ids": 2
+  },
+  {
+    "id": 232,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\6ZSNbvjzzsN.css",
+    "fileSize": 27132,
+    "numLines": 279,
+    "num_tags": 4681,
+    "num_classes": 106,
+    "num_ids": 4
+  },
+  {
+    "id": 233,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\f-HZjbzltwo.css",
+    "fileSize": 109366,
+    "numLines": 1084,
+    "num_tags": 20251,
+    "num_classes": 456,
+    "num_ids": 19
+  },
+  {
+    "id": 234,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\jWW0F340qt4.css",
+    "fileSize": 272504,
+    "numLines": 2636,
+    "num_tags": 46614,
+    "num_classes": 582,
+    "num_ids": 33
+  },
+  {
+    "id": 235,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\kWhCpBXaUpv.css",
+    "fileSize": 15767,
+    "numLines": 216,
+    "num_tags": 2840,
+    "num_classes": 125,
+    "num_ids": 2
+  },
+  {
+    "id": 236,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\PXJmhQlvJQ7.css",
+    "fileSize": 41825,
+    "numLines": 506,
+    "num_tags": 7568,
+    "num_classes": 225,
+    "num_ids": 22
+  },
+  {
+    "id": 237,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\qHLPZgjMqV4.css",
+    "fileSize": 121918,
+    "numLines": 1154,
+    "num_tags": 21279,
+    "num_classes": 331,
+    "num_ids": 53
+  },
+  {
+    "id": 238,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\tssmvtp3K2t.css",
+    "fileSize": 5555,
+    "numLines": 60,
+    "num_tags": 1058,
+    "num_classes": 65,
+    "num_ids": 0
+  },
+  {
+    "id": 239,
+    "cssFile": "original-dataset\\Facebook\\results\\run1\\zY6V8rygKPY.css",
+    "fileSize": 58938,
+    "numLines": 521,
+    "num_tags": 9704,
+    "num_classes": 251,
+    "num_ids": 10
+  },
+  {
+    "id": 240,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\1GsqYFnXaZQ.css",
+    "fileSize": 41357,
+    "numLines": 519,
+    "num_tags": 7256,
+    "num_classes": 210,
+    "num_ids": 7
+  },
+  {
+    "id": 241,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\4sBHX11vlXQ.css",
+    "fileSize": 20725,
+    "numLines": 159,
+    "num_tags": 4214,
+    "num_classes": 113,
+    "num_ids": 2
+  },
+  {
+    "id": 242,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\6ZSNbvjzzsN.css",
+    "fileSize": 27132,
+    "numLines": 279,
+    "num_tags": 4683,
+    "num_classes": 106,
+    "num_ids": 4
+  },
+  {
+    "id": 243,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\f-HZjbzltwo.css",
+    "fileSize": 109214,
+    "numLines": 1082,
+    "num_tags": 20239,
+    "num_classes": 456,
+    "num_ids": 19
+  },
+  {
+    "id": 244,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\jWW0F340qt4.css",
+    "fileSize": 272504,
+    "numLines": 2636,
+    "num_tags": 46613,
+    "num_classes": 582,
+    "num_ids": 33
+  },
+  {
+    "id": 245,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\kWhCpBXaUpv.css",
+    "fileSize": 15767,
+    "numLines": 216,
+    "num_tags": 2840,
+    "num_classes": 125,
+    "num_ids": 2
+  },
+  {
+    "id": 246,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\PXJmhQlvJQ7.css",
+    "fileSize": 41782,
+    "numLines": 505,
+    "num_tags": 7563,
+    "num_classes": 225,
+    "num_ids": 22
+  },
+  {
+    "id": 247,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\qHLPZgjMqV4.css",
+    "fileSize": 121897,
+    "numLines": 1154,
+    "num_tags": 21275,
+    "num_classes": 331,
+    "num_ids": 53
+  },
+  {
+    "id": 248,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\tssmvtp3K2t.css",
+    "fileSize": 5655,
+    "numLines": 60,
+    "num_tags": 1083,
+    "num_classes": 65,
+    "num_ids": 0
+  },
+  {
+    "id": 249,
+    "cssFile": "original-dataset\\Facebook\\results\\run2\\zY6V8rygKPY.css",
+    "fileSize": 58938,
+    "numLines": 521,
+    "num_tags": 9710,
+    "num_classes": 251,
+    "num_ids": 10
+  },
+  {
+    "id": 250,
+    "cssFile": "original-dataset\\Github\\css\\5e7e3bc340d0ab710ee47fc6fdc542478224380a.css",
+    "fileSize": 243841,
+    "numLines": 2,
+    "num_tags": 53441,
+    "num_classes": 1455,
+    "num_ids": 244
+  },
+  {
+    "id": 251,
+    "cssFile": "original-dataset\\Github\\css\\969c9f41d505db539756b9548c542c756c6de731.css",
+    "fileSize": 248632,
+    "numLines": 2,
+    "num_tags": 55481,
+    "num_classes": 1436,
+    "num_ids": 258
+  },
+  {
+    "id": 252,
+    "cssFile": "original-dataset\\Github\\results\\run1\\5e7e3bc340d0ab710ee47fc6fdc542478224380a.css",
+    "fileSize": 292515,
+    "numLines": 2937,
+    "num_tags": 55918,
+    "num_classes": 1407,
+    "num_ids": 29
+  },
+  {
+    "id": 253,
+    "cssFile": "original-dataset\\Github\\results\\run1\\969c9f41d505db539756b9548c542c756c6de731.css",
+    "fileSize": 290607,
+    "numLines": 2932,
+    "num_tags": 56754,
+    "num_classes": 1373,
+    "num_ids": 67
+  },
+  {
+    "id": 254,
+    "cssFile": "original-dataset\\Github\\results\\run2\\5e7e3bc340d0ab710ee47fc6fdc542478224380a.css",
+    "fileSize": 292426,
+    "numLines": 2936,
+    "num_tags": 55920,
+    "num_classes": 1407,
+    "num_ids": 29
+  },
+  {
+    "id": 255,
+    "cssFile": "original-dataset\\Github\\results\\run2\\969c9f41d505db539756b9548c542c756c6de731.css",
+    "fileSize": 290607,
+    "numLines": 2932,
+    "num_tags": 56754,
+    "num_classes": 1373,
+    "num_ids": 67
+  },
+  {
+    "id": 256,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\027bbae4120f3264d9b84f8842853a84eff859dd.css",
+    "fileSize": 3308,
+    "numLines": 55,
+    "num_tags": 669,
+    "num_classes": 53,
+    "num_ids": 0
+  },
+  {
+    "id": 257,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\128f0ebcde5b8bd3a6c22671abfa8df8c1c040a4.css",
+    "fileSize": 134025,
+    "numLines": 7,
+    "num_tags": 28646,
+    "num_classes": 462,
+    "num_ids": 92
+  },
+  {
+    "id": 258,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\1d72555cafc08d79627d4520fcfbabacd2b24ca7.css",
+    "fileSize": 1119,
+    "numLines": 36,
+    "num_tags": 145,
+    "num_classes": 9,
+    "num_ids": 2
+  },
+  {
+    "id": 259,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\23579edb1e12f906d2b83f522d1c27011dc1b1d8.css",
+    "fileSize": 25850,
+    "numLines": 602,
+    "num_tags": 5483,
+    "num_classes": 77,
+    "num_ids": 33
+  },
+  {
+    "id": 260,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\28343ee88d3161af0cc16cf9a58904e3cbeea38a.css",
+    "fileSize": 28743,
+    "numLines": 1195,
+    "num_tags": 5397,
+    "num_classes": 78,
+    "num_ids": 33
+  },
+  {
+    "id": 261,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\58133c8c55eb3d510e6d6df4a5c62ea76a7e8606.css",
+    "fileSize": 21906,
+    "numLines": 1345,
+    "num_tags": 2252,
+    "num_classes": 425,
+    "num_ids": 3
+  },
+  {
+    "id": 262,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\61dc696007ca3c1aeb54a2d0bab8ea932de60e21.css",
+    "fileSize": 233,
+    "numLines": 7,
+    "num_tags": 27,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 263,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\7846bf4033efb6cad79eaab6ab128dba91da2037.css",
+    "fileSize": 8513,
+    "numLines": 326,
+    "num_tags": 1169,
+    "num_classes": 28,
+    "num_ids": 2
+  },
+  {
+    "id": 264,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\9fcabf689180487b7cbce1468afc7013929b093a.css",
+    "fileSize": 293,
+    "numLines": 7,
+    "num_tags": 51,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 265,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\a25d344374c4e8f3d28fc2dc1186f3df48d3aabb.css",
+    "fileSize": 16643,
+    "numLines": 7,
+    "num_tags": 3451,
+    "num_classes": 89,
+    "num_ids": 12
+  },
+  {
+    "id": 266,
+    "cssFile": "original-dataset\\GlobalTVBC\\css\\dfb49e82494598be746a8641be5b1888e4604c86.css",
+    "fileSize": 18468,
+    "numLines": 854,
+    "num_tags": 3582,
+    "num_classes": 53,
+    "num_ids": 39
+  },
+  {
+    "id": 267,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\027bbae4120f3264d9b84f8842853a84eff859dd.css",
+    "fileSize": 3086,
+    "numLines": 50,
+    "num_tags": 643,
+    "num_classes": 51,
+    "num_ids": 0
+  },
+  {
+    "id": 268,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\128f0ebcde5b8bd3a6c22671abfa8df8c1c040a4.css",
+    "fileSize": 149329,
+    "numLines": 1530,
+    "num_tags": 28221,
+    "num_classes": 437,
+    "num_ids": 18
+  },
+  {
+    "id": 269,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\1d72555cafc08d79627d4520fcfbabacd2b24ca7.css",
+    "fileSize": 582,
+    "numLines": 12,
+    "num_tags": 86,
+    "num_classes": 5,
+    "num_ids": 2
+  },
+  {
+    "id": 270,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\23579edb1e12f906d2b83f522d1c27011dc1b1d8.css",
+    "fileSize": 25204,
+    "numLines": 274,
+    "num_tags": 5361,
+    "num_classes": 71,
+    "num_ids": 22
+  },
+  {
+    "id": 271,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\28343ee88d3161af0cc16cf9a58904e3cbeea38a.css",
+    "fileSize": 23477,
+    "numLines": 188,
+    "num_tags": 4791,
+    "num_classes": 73,
+    "num_ids": 10
+  },
+  {
+    "id": 272,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\58133c8c55eb3d510e6d6df4a5c62ea76a7e8606.css",
+    "fileSize": 19511,
+    "numLines": 411,
+    "num_tags": 2300,
+    "num_classes": 421,
+    "num_ids": 1
+  },
+  {
+    "id": 273,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\61dc696007ca3c1aeb54a2d0bab8ea932de60e21.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 274,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\7846bf4033efb6cad79eaab6ab128dba91da2037.css",
+    "fileSize": 5678,
+    "numLines": 50,
+    "num_tags": 847,
+    "num_classes": 24,
+    "num_ids": 0
+  },
+  {
+    "id": 275,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\9fcabf689180487b7cbce1468afc7013929b093a.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 276,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\a25d344374c4e8f3d28fc2dc1186f3df48d3aabb.css",
+    "fileSize": 18381,
+    "numLines": 262,
+    "num_tags": 3401,
+    "num_classes": 84,
+    "num_ids": 5
+  },
+  {
+    "id": 277,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run1\\dfb49e82494598be746a8641be5b1888e4604c86.css",
+    "fileSize": 14773,
+    "numLines": 128,
+    "num_tags": 3103,
+    "num_classes": 50,
+    "num_ids": 27
+  },
+  {
+    "id": 278,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\027bbae4120f3264d9b84f8842853a84eff859dd.css",
+    "fileSize": 3086,
+    "numLines": 50,
+    "num_tags": 643,
+    "num_classes": 51,
+    "num_ids": 0
+  },
+  {
+    "id": 279,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\128f0ebcde5b8bd3a6c22671abfa8df8c1c040a4.css",
+    "fileSize": 148131,
+    "numLines": 1515,
+    "num_tags": 28049,
+    "num_classes": 437,
+    "num_ids": 18
+  },
+  {
+    "id": 280,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\1d72555cafc08d79627d4520fcfbabacd2b24ca7.css",
+    "fileSize": 582,
+    "numLines": 12,
+    "num_tags": 86,
+    "num_classes": 5,
+    "num_ids": 2
+  },
+  {
+    "id": 281,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\23579edb1e12f906d2b83f522d1c27011dc1b1d8.css",
+    "fileSize": 25204,
+    "numLines": 274,
+    "num_tags": 5361,
+    "num_classes": 71,
+    "num_ids": 22
+  },
+  {
+    "id": 282,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\28343ee88d3161af0cc16cf9a58904e3cbeea38a.css",
+    "fileSize": 23477,
+    "numLines": 188,
+    "num_tags": 4791,
+    "num_classes": 73,
+    "num_ids": 10
+  },
+  {
+    "id": 283,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\58133c8c55eb3d510e6d6df4a5c62ea76a7e8606.css",
+    "fileSize": 19511,
+    "numLines": 411,
+    "num_tags": 2300,
+    "num_classes": 421,
+    "num_ids": 1
+  },
+  {
+    "id": 284,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\61dc696007ca3c1aeb54a2d0bab8ea932de60e21.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 285,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\7846bf4033efb6cad79eaab6ab128dba91da2037.css",
+    "fileSize": 5678,
+    "numLines": 50,
+    "num_tags": 847,
+    "num_classes": 24,
+    "num_ids": 0
+  },
+  {
+    "id": 286,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\9fcabf689180487b7cbce1468afc7013929b093a.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 287,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\a25d344374c4e8f3d28fc2dc1186f3df48d3aabb.css",
+    "fileSize": 18381,
+    "numLines": 262,
+    "num_tags": 3401,
+    "num_classes": 84,
+    "num_ids": 5
+  },
+  {
+    "id": 288,
+    "cssFile": "original-dataset\\GlobalTVBC\\results\\run2\\dfb49e82494598be746a8641be5b1888e4604c86.css",
+    "fileSize": 14773,
+    "numLines": 128,
+    "num_tags": 3103,
+    "num_classes": 50,
+    "num_ids": 27
+  },
+  {
+    "id": 289,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail1.css",
+    "fileSize": 260536,
+    "numLines": 17292,
+    "num_tags": 43021,
+    "num_classes": 1492,
+    "num_ids": 36
+  },
+  {
+    "id": 290,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail2.css",
+    "fileSize": 24242,
+    "numLines": 1412,
+    "num_tags": 3997,
+    "num_classes": 133,
+    "num_ids": 9
+  },
+  {
+    "id": 291,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail3.css",
+    "fileSize": 44838,
+    "numLines": 2597,
+    "num_tags": 7595,
+    "num_classes": 214,
+    "num_ids": 18
+  },
+  {
+    "id": 292,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail4.css",
+    "fileSize": 8400,
+    "numLines": 291,
+    "num_tags": 1034,
+    "num_classes": 10,
+    "num_ids": 2
+  },
+  {
+    "id": 293,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail5.css",
+    "fileSize": 38688,
+    "numLines": 1,
+    "num_tags": 7595,
+    "num_classes": 214,
+    "num_ids": 46
+  },
+  {
+    "id": 294,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail6.css",
+    "fileSize": 24818,
+    "numLines": 1,
+    "num_tags": 4784,
+    "num_classes": 168,
+    "num_ids": 28
+  },
+  {
+    "id": 295,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail7.css",
+    "fileSize": 46700,
+    "numLines": 1,
+    "num_tags": 9134,
+    "num_classes": 224,
+    "num_ids": 37
+  },
+  {
+    "id": 296,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail8.css",
+    "fileSize": 250948,
+    "numLines": 16700,
+    "num_tags": 41519,
+    "num_classes": 1416,
+    "num_ids": 31
+  },
+  {
+    "id": 297,
+    "cssFile": "original-dataset\\Gmail-original\\css\\gmail9.css",
+    "fileSize": 8400,
+    "numLines": 291,
+    "num_tags": 1034,
+    "num_classes": 10,
+    "num_ids": 2
+  },
+  {
+    "id": 298,
+    "cssFile": "original-dataset\\ICSE12\\css\\206c980cf93f31809787bb32005456937ba2124d.css",
+    "fileSize": 866,
+    "numLines": 49,
+    "num_tags": 155,
+    "num_classes": 6,
+    "num_ids": 5
+  },
+  {
+    "id": 299,
+    "cssFile": "original-dataset\\ICSE12\\css\\77f57d6bd91443af5cee1693c1c3495741d3662e.css",
+    "fileSize": 5857,
+    "numLines": 337,
+    "num_tags": 983,
+    "num_classes": 26,
+    "num_ids": 9
+  },
+  {
+    "id": 300,
+    "cssFile": "original-dataset\\ICSE12\\css\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 323,
+    "numLines": 11,
+    "num_tags": 51,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 301,
+    "cssFile": "original-dataset\\ICSE12\\css\\b8cd0b0044f85a8278ba9df9370abd25b22b2329.css",
+    "fileSize": 5286,
+    "numLines": 348,
+    "num_tags": 586,
+    "num_classes": 7,
+    "num_ids": 0
+  },
+  {
+    "id": 302,
+    "cssFile": "original-dataset\\ICSE12\\css\\ff17ee2acee1f99f9dc0e3b643c531dc2d7166e9.css",
+    "fileSize": 12040,
+    "numLines": 565,
+    "num_tags": 1954,
+    "num_classes": 74,
+    "num_ids": 2
+  },
+  {
+    "id": 303,
+    "cssFile": "original-dataset\\ICSE12\\results\\run1\\206c980cf93f31809787bb32005456937ba2124d.css",
+    "fileSize": 311,
+    "numLines": 7,
+    "num_tags": 66,
+    "num_classes": 3,
+    "num_ids": 4
+  },
+  {
+    "id": 304,
+    "cssFile": "original-dataset\\ICSE12\\results\\run1\\77f57d6bd91443af5cee1693c1c3495741d3662e.css",
+    "fileSize": 5335,
+    "numLines": 68,
+    "num_tags": 952,
+    "num_classes": 22,
+    "num_ids": 5
+  },
+  {
+    "id": 305,
+    "cssFile": "original-dataset\\ICSE12\\results\\run1\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 83,
+    "numLines": 3,
+    "num_tags": 13,
+    "num_classes": 1,
+    "num_ids": 0
+  },
+  {
+    "id": 306,
+    "cssFile": "original-dataset\\ICSE12\\results\\run1\\b8cd0b0044f85a8278ba9df9370abd25b22b2329.css",
+    "fileSize": 3226,
+    "numLines": 67,
+    "num_tags": 513,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 307,
+    "cssFile": "original-dataset\\ICSE12\\results\\run1\\ff17ee2acee1f99f9dc0e3b643c531dc2d7166e9.css",
+    "fileSize": 9687,
+    "numLines": 116,
+    "num_tags": 1787,
+    "num_classes": 71,
+    "num_ids": 0
+  },
+  {
+    "id": 308,
+    "cssFile": "original-dataset\\ICSE12\\results\\run2\\206c980cf93f31809787bb32005456937ba2124d.css",
+    "fileSize": 311,
+    "numLines": 7,
+    "num_tags": 66,
+    "num_classes": 3,
+    "num_ids": 4
+  },
+  {
+    "id": 309,
+    "cssFile": "original-dataset\\ICSE12\\results\\run2\\77f57d6bd91443af5cee1693c1c3495741d3662e.css",
+    "fileSize": 5266,
+    "numLines": 68,
+    "num_tags": 948,
+    "num_classes": 22,
+    "num_ids": 5
+  },
+  {
+    "id": 310,
+    "cssFile": "original-dataset\\ICSE12\\results\\run2\\84b6ed8a2459e54d0d2e4f4c2c279272cecdcf23.css",
+    "fileSize": 83,
+    "numLines": 3,
+    "num_tags": 13,
+    "num_classes": 1,
+    "num_ids": 0
+  },
+  {
+    "id": 311,
+    "cssFile": "original-dataset\\ICSE12\\results\\run2\\b8cd0b0044f85a8278ba9df9370abd25b22b2329.css",
+    "fileSize": 3226,
+    "numLines": 67,
+    "num_tags": 513,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 312,
+    "cssFile": "original-dataset\\ICSE12\\results\\run2\\ff17ee2acee1f99f9dc0e3b643c531dc2d7166e9.css",
+    "fileSize": 9687,
+    "numLines": 116,
+    "num_tags": 1787,
+    "num_classes": 71,
+    "num_ids": 0
+  },
+  {
+    "id": 313,
+    "cssFile": "original-dataset\\Igloo\\css\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 2249,
+    "numLines": 155,
+    "num_tags": 373,
+    "num_classes": 11,
+    "num_ids": 8
+  },
+  {
+    "id": 314,
+    "cssFile": "original-dataset\\Igloo\\css\\0f032c00d802fb6cf120cfb964608a77e3fa480a.css",
+    "fileSize": 8873,
+    "numLines": 7,
+    "num_tags": 2019,
+    "num_classes": 23,
+    "num_ids": 26
+  },
+  {
+    "id": 315,
+    "cssFile": "original-dataset\\Igloo\\results\\run1\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 1917,
+    "numLines": 29,
+    "num_tags": 349,
+    "num_classes": 10,
+    "num_ids": 8
+  },
+  {
+    "id": 316,
+    "cssFile": "original-dataset\\Igloo\\results\\run1\\0f032c00d802fb6cf120cfb964608a77e3fa480a.css",
+    "fileSize": 13734,
+    "numLines": 152,
+    "num_tags": 2433,
+    "num_classes": 21,
+    "num_ids": 10
+  },
+  {
+    "id": 317,
+    "cssFile": "original-dataset\\Igloo\\results\\run2\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 1917,
+    "numLines": 29,
+    "num_tags": 349,
+    "num_classes": 10,
+    "num_ids": 8
+  },
+  {
+    "id": 318,
+    "cssFile": "original-dataset\\Igloo\\results\\run2\\0f032c00d802fb6cf120cfb964608a77e3fa480a.css",
+    "fileSize": 11349,
+    "numLines": 131,
+    "num_tags": 2102,
+    "num_classes": 21,
+    "num_ids": 10
+  },
+  {
+    "id": 319,
+    "cssFile": "original-dataset\\Imgur\\css\\111604bcf5f8a464a15932931a03862ed57efa59.css",
+    "fileSize": 45694,
+    "numLines": 7,
+    "num_tags": 9735,
+    "num_classes": 186,
+    "num_ids": 80
+  },
+  {
+    "id": 320,
+    "cssFile": "original-dataset\\Imgur\\css\\44cab467d8afcbdef9600db99310a408d80bc875.css",
+    "fileSize": 81130,
+    "numLines": 7,
+    "num_tags": 17059,
+    "num_classes": 284,
+    "num_ids": 173
+  },
+  {
+    "id": 321,
+    "cssFile": "original-dataset\\Imgur\\results\\run1\\111604bcf5f8a464a15932931a03862ed57efa59.css",
+    "fileSize": 46666,
+    "numLines": 484,
+    "num_tags": 9104,
+    "num_classes": 180,
+    "num_ids": 58
+  },
+  {
+    "id": 322,
+    "cssFile": "original-dataset\\Imgur\\results\\run1\\44cab467d8afcbdef9600db99310a408d80bc875.css",
+    "fileSize": 87431,
+    "numLines": 778,
+    "num_tags": 16350,
+    "num_classes": 278,
+    "num_ids": 145
+  },
+  {
+    "id": 323,
+    "cssFile": "original-dataset\\Imgur\\results\\run2\\111604bcf5f8a464a15932931a03862ed57efa59.css",
+    "fileSize": 46618,
+    "numLines": 484,
+    "num_tags": 9095,
+    "num_classes": 180,
+    "num_ids": 58
+  },
+  {
+    "id": 324,
+    "cssFile": "original-dataset\\Imgur\\results\\run2\\44cab467d8afcbdef9600db99310a408d80bc875.css",
+    "fileSize": 84821,
+    "numLines": 754,
+    "num_tags": 15976,
+    "num_classes": 278,
+    "num_ids": 145
+  },
+  {
+    "id": 325,
+    "cssFile": "original-dataset\\Lenovo\\css\\3f68c522abcf8193cbc176fa0ed1290fdc2aed44.css",
+    "fileSize": 11615,
+    "numLines": 99,
+    "num_tags": 2019,
+    "num_classes": 22,
+    "num_ids": 19
+  },
+  {
+    "id": 326,
+    "cssFile": "original-dataset\\Lenovo\\results\\run1\\3f68c522abcf8193cbc176fa0ed1290fdc2aed44.css",
+    "fileSize": 8947,
+    "numLines": 72,
+    "num_tags": 1547,
+    "num_classes": 18,
+    "num_ids": 12
+  },
+  {
+    "id": 327,
+    "cssFile": "original-dataset\\Lenovo\\results\\run2\\3f68c522abcf8193cbc176fa0ed1290fdc2aed44.css",
+    "fileSize": 8947,
+    "numLines": 72,
+    "num_tags": 1547,
+    "num_classes": 18,
+    "num_ids": 12
+  },
+  {
+    "id": 328,
+    "cssFile": "original-dataset\\MEC\\index_files\\282a12.css",
+    "fileSize": 1,
+    "numLines": 2,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 329,
+    "cssFile": "original-dataset\\MEC\\index_files\\content_new_v2_m56577569831553188.css",
+    "fileSize": 10111,
+    "numLines": 363,
+    "num_tags": 1265,
+    "num_classes": 36,
+    "num_ids": 18
+  },
+  {
+    "id": 330,
+    "cssFile": "original-dataset\\MEC\\index_files\\jquery-ui-1.css",
+    "fileSize": 24805,
+    "numLines": 433,
+    "num_tags": 5189,
+    "num_classes": 168,
+    "num_ids": 6
+  },
+  {
+    "id": 331,
+    "cssFile": "original-dataset\\MEC\\index_files\\mec_styles.css",
+    "fileSize": 220026,
+    "numLines": 2211,
+    "num_tags": 43536,
+    "num_classes": 1164,
+    "num_ids": 253
+  },
+  {
+    "id": 332,
+    "cssFile": "original-dataset\\MEC\\index_files\\WebFonts.css",
+    "fileSize": 1840,
+    "numLines": 41,
+    "num_tags": 273,
+    "num_classes": 7,
+    "num_ids": 1
+  },
+  {
+    "id": 333,
+    "cssFile": "original-dataset\\MEC\\index_files\\Oi1KXapZumY_data\\www-embed-player-vflVy6z3R.css",
+    "fileSize": 167671,
+    "numLines": 1,
+    "num_tags": 38950,
+    "num_classes": 490,
+    "num_ids": 66
+  },
+  {
+    "id": 334,
+    "cssFile": "original-dataset\\MEC\\results\\run1\\content_new_v2_m56577569831553188.css",
+    "fileSize": 4553,
+    "numLines": 52,
+    "num_tags": 888,
+    "num_classes": 23,
+    "num_ids": 9
+  },
+  {
+    "id": 335,
+    "cssFile": "original-dataset\\MEC\\results\\run1\\jquery-ui-1.css",
+    "fileSize": 21418,
+    "numLines": 285,
+    "num_tags": 4626,
+    "num_classes": 163,
+    "num_ids": 0
+  },
+  {
+    "id": 336,
+    "cssFile": "original-dataset\\MEC\\results\\run1\\mec_styles.css",
+    "fileSize": 229667,
+    "numLines": 2599,
+    "num_tags": 41408,
+    "num_classes": 1091,
+    "num_ids": 148
+  },
+  {
+    "id": 337,
+    "cssFile": "original-dataset\\MEC\\results\\run1\\WebFonts.css",
+    "fileSize": 537,
+    "numLines": 9,
+    "num_tags": 56,
+    "num_classes": 4,
+    "num_ids": 1
+  },
+  {
+    "id": 338,
+    "cssFile": "original-dataset\\MEC\\results\\run2\\content_new_v2_m56577569831553188.css",
+    "fileSize": 4553,
+    "numLines": 52,
+    "num_tags": 888,
+    "num_classes": 23,
+    "num_ids": 9
+  },
+  {
+    "id": 339,
+    "cssFile": "original-dataset\\MEC\\results\\run2\\jquery-ui-1.css",
+    "fileSize": 21418,
+    "numLines": 285,
+    "num_tags": 4626,
+    "num_classes": 163,
+    "num_ids": 0
+  },
+  {
+    "id": 340,
+    "cssFile": "original-dataset\\MEC\\results\\run2\\mec_styles.css",
+    "fileSize": 228763,
+    "numLines": 2589,
+    "num_tags": 41295,
+    "num_classes": 1091,
+    "num_ids": 148
+  },
+  {
+    "id": 341,
+    "cssFile": "original-dataset\\MEC\\results\\run2\\WebFonts.css",
+    "fileSize": 537,
+    "numLines": 9,
+    "num_tags": 56,
+    "num_classes": 4,
+    "num_ids": 1
+  },
+  {
+    "id": 342,
+    "cssFile": "original-dataset\\Microsoft\\css\\6167ddb2c4314aaaa4a1fa467d0abb4e9befac2c.css",
+    "fileSize": 78622,
+    "numLines": 7,
+    "num_tags": 15269,
+    "num_classes": 222,
+    "num_ids": 20
+  },
+  {
+    "id": 343,
+    "cssFile": "original-dataset\\Microsoft\\results\\run1\\6167ddb2c4314aaaa4a1fa467d0abb4e9befac2c(1).css",
+    "fileSize": 86731,
+    "numLines": 1050,
+    "num_tags": 14786,
+    "num_classes": 218,
+    "num_ids": 3
+  },
+  {
+    "id": 344,
+    "cssFile": "original-dataset\\Microsoft\\results\\run1\\6167ddb2c4314aaaa4a1fa467d0abb4e9befac2c.css",
+    "fileSize": 86731,
+    "numLines": 1050,
+    "num_tags": 14786,
+    "num_classes": 218,
+    "num_ids": 3
+  },
+  {
+    "id": 345,
+    "cssFile": "original-dataset\\Microsoft\\results\\run2\\6167ddb2c4314aaaa4a1fa467d0abb4e9befac2c(1).css",
+    "fileSize": 83215,
+    "numLines": 1018,
+    "num_tags": 14330,
+    "num_classes": 218,
+    "num_ids": 3
+  },
+  {
+    "id": 346,
+    "cssFile": "original-dataset\\Microsoft\\results\\run2\\6167ddb2c4314aaaa4a1fa467d0abb4e9befac2c.css",
+    "fileSize": 83215,
+    "numLines": 1018,
+    "num_tags": 14328,
+    "num_classes": 218,
+    "num_ids": 3
+  },
+  {
+    "id": 347,
+    "cssFile": "original-dataset\\MSN\\css\\b4e57c12b9914f7e4c365f297231c7181acd8471.css",
+    "fileSize": 167347,
+    "numLines": 7,
+    "num_tags": 35058,
+    "num_classes": 572,
+    "num_ids": 94
+  },
+  {
+    "id": 348,
+    "cssFile": "original-dataset\\MSN\\results\\run1\\b4e57c12b9914f7e4c365f297231c7181acd8471(1).css",
+    "fileSize": 198029,
+    "numLines": 2147,
+    "num_tags": 37459,
+    "num_classes": 562,
+    "num_ids": 59
+  },
+  {
+    "id": 349,
+    "cssFile": "original-dataset\\MSN\\results\\run1\\b4e57c12b9914f7e4c365f297231c7181acd8471.css",
+    "fileSize": 198029,
+    "numLines": 2147,
+    "num_tags": 37459,
+    "num_classes": 562,
+    "num_ids": 59
+  },
+  {
+    "id": 350,
+    "cssFile": "original-dataset\\MSN\\results\\run2\\b4e57c12b9914f7e4c365f297231c7181acd8471(1).css",
+    "fileSize": 198029,
+    "numLines": 2147,
+    "num_tags": 37459,
+    "num_classes": 562,
+    "num_ids": 59
+  },
+  {
+    "id": 351,
+    "cssFile": "original-dataset\\MSN\\results\\run2\\b4e57c12b9914f7e4c365f297231c7181acd8471.css",
+    "fileSize": 198029,
+    "numLines": 2147,
+    "num_tags": 37459,
+    "num_classes": 562,
+    "num_ids": 59
+  },
+  {
+    "id": 352,
+    "cssFile": "original-dataset\\MSNWeather\\css\\72150368517892b93e5ec0c5900d53ad67a117a6.css",
+    "fileSize": 59517,
+    "numLines": 7,
+    "num_tags": 13373,
+    "num_classes": 476,
+    "num_ids": 37
+  },
+  {
+    "id": 353,
+    "cssFile": "original-dataset\\MSNWeather\\css\\8a03f2f41e972dea98635f2e178b13c18d48bd3b.css",
+    "fileSize": 164523,
+    "numLines": 7,
+    "num_tags": 34123,
+    "num_classes": 943,
+    "num_ids": 40
+  },
+  {
+    "id": 354,
+    "cssFile": "original-dataset\\MSNWeather\\css\\a641ca9f3422c1a630dc372ddec4a6026a9bd7b6.css",
+    "fileSize": 179650,
+    "numLines": 7,
+    "num_tags": 40606,
+    "num_classes": 441,
+    "num_ids": 117
+  },
+  {
+    "id": 355,
+    "cssFile": "original-dataset\\MSNWeather\\css\\dd6100d1a6a3c3bb508bd0ba1ee880973bedc058.css",
+    "fileSize": 2403,
+    "numLines": 7,
+    "num_tags": 449,
+    "num_classes": 24,
+    "num_ids": 4
+  },
+  {
+    "id": 356,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\72150368517892b93e5ec0c5900d53ad67a117a6(1).css",
+    "fileSize": 71794,
+    "numLines": 727,
+    "num_tags": 14352,
+    "num_classes": 469,
+    "num_ids": 9
+  },
+  {
+    "id": 357,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\72150368517892b93e5ec0c5900d53ad67a117a6.css",
+    "fileSize": 71794,
+    "numLines": 727,
+    "num_tags": 14355,
+    "num_classes": 469,
+    "num_ids": 9
+  },
+  {
+    "id": 358,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\8a03f2f41e972dea98635f2e178b13c18d48bd3b(1).css",
+    "fileSize": 183981,
+    "numLines": 1778,
+    "num_tags": 34376,
+    "num_classes": 926,
+    "num_ids": 6
+  },
+  {
+    "id": 359,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\8a03f2f41e972dea98635f2e178b13c18d48bd3b.css",
+    "fileSize": 183981,
+    "numLines": 1778,
+    "num_tags": 34376,
+    "num_classes": 926,
+    "num_ids": 6
+  },
+  {
+    "id": 360,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\a641ca9f3422c1a630dc372ddec4a6026a9bd7b6(1).css",
+    "fileSize": 214139,
+    "numLines": 2379,
+    "num_tags": 43256,
+    "num_classes": 429,
+    "num_ids": 35
+  },
+  {
+    "id": 361,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\a641ca9f3422c1a630dc372ddec4a6026a9bd7b6.css",
+    "fileSize": 214139,
+    "numLines": 2379,
+    "num_tags": 43256,
+    "num_classes": 429,
+    "num_ids": 35
+  },
+  {
+    "id": 362,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\dd6100d1a6a3c3bb508bd0ba1ee880973bedc058(1).css",
+    "fileSize": 2900,
+    "numLines": 52,
+    "num_tags": 408,
+    "num_classes": 19,
+    "num_ids": 0
+  },
+  {
+    "id": 363,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run1\\dd6100d1a6a3c3bb508bd0ba1ee880973bedc058.css",
+    "fileSize": 2900,
+    "numLines": 52,
+    "num_tags": 408,
+    "num_classes": 19,
+    "num_ids": 0
+  },
+  {
+    "id": 364,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\72150368517892b93e5ec0c5900d53ad67a117a6(1).css",
+    "fileSize": 71794,
+    "numLines": 727,
+    "num_tags": 14353,
+    "num_classes": 469,
+    "num_ids": 9
+  },
+  {
+    "id": 365,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\72150368517892b93e5ec0c5900d53ad67a117a6.css",
+    "fileSize": 71794,
+    "numLines": 727,
+    "num_tags": 14356,
+    "num_classes": 469,
+    "num_ids": 9
+  },
+  {
+    "id": 366,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\8a03f2f41e972dea98635f2e178b13c18d48bd3b(1).css",
+    "fileSize": 183981,
+    "numLines": 1778,
+    "num_tags": 34376,
+    "num_classes": 926,
+    "num_ids": 6
+  },
+  {
+    "id": 367,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\8a03f2f41e972dea98635f2e178b13c18d48bd3b.css",
+    "fileSize": 183981,
+    "numLines": 1778,
+    "num_tags": 34376,
+    "num_classes": 926,
+    "num_ids": 6
+  },
+  {
+    "id": 368,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\a641ca9f3422c1a630dc372ddec4a6026a9bd7b6(1).css",
+    "fileSize": 214139,
+    "numLines": 2379,
+    "num_tags": 43256,
+    "num_classes": 429,
+    "num_ids": 35
+  },
+  {
+    "id": 369,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\a641ca9f3422c1a630dc372ddec4a6026a9bd7b6.css",
+    "fileSize": 214139,
+    "numLines": 2379,
+    "num_tags": 43256,
+    "num_classes": 429,
+    "num_ids": 35
+  },
+  {
+    "id": 370,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\dd6100d1a6a3c3bb508bd0ba1ee880973bedc058(1).css",
+    "fileSize": 2900,
+    "numLines": 52,
+    "num_tags": 408,
+    "num_classes": 19,
+    "num_ids": 0
+  },
+  {
+    "id": 371,
+    "cssFile": "original-dataset\\MSNWeather\\results\\run2\\dd6100d1a6a3c3bb508bd0ba1ee880973bedc058.css",
+    "fileSize": 2900,
+    "numLines": 52,
+    "num_tags": 408,
+    "num_classes": 19,
+    "num_ids": 0
+  },
+  {
+    "id": 372,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\compose1_fZJqD6umUxq_4eiLHzyWrw2.css",
+    "fileSize": 2471,
+    "numLines": 1,
+    "num_tags": 488,
+    "num_classes": 18,
+    "num_ids": 4
+  },
+  {
+    "id": 373,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\compose2_R4Ha4KywMFOLxUcznIpAvg2.css",
+    "fileSize": 371,
+    "numLines": 1,
+    "num_tags": 73,
+    "num_classes": 7,
+    "num_ids": 0
+  },
+  {
+    "id": 374,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\compose_EF6hezwvpCo2zV_eSD2qvg2.css",
+    "fileSize": 16700,
+    "numLines": 1,
+    "num_tags": 3580,
+    "num_classes": 136,
+    "num_ids": 25
+  },
+  {
+    "id": 375,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\hig_MJqPkmuVlyQyiOskXcyo0w2.css",
+    "fileSize": 19235,
+    "numLines": 1,
+    "num_tags": 3801,
+    "num_classes": 220,
+    "num_ids": 34
+  },
+  {
+    "id": 376,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\InboxAll1_TeCbX3p4gD60EkmrZUcKkw2.css",
+    "fileSize": 5062,
+    "numLines": 1,
+    "num_tags": 1044,
+    "num_classes": 61,
+    "num_ids": 13
+  },
+  {
+    "id": 377,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\InboxAll_qSAE_nw27gH1y0cjiFMW3w2.css",
+    "fileSize": 30870,
+    "numLines": 1,
+    "num_tags": 6014,
+    "num_classes": 368,
+    "num_ids": 41
+  },
+  {
+    "id": 378,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\modern.webkit.other.css",
+    "fileSize": 12343,
+    "numLines": 1,
+    "num_tags": 2241,
+    "num_classes": 81,
+    "num_ids": 6
+  },
+  {
+    "id": 379,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\PeoplePane_7WjbgRcWSiWKaiCnzP0avQ2.css",
+    "fileSize": 5711,
+    "numLines": 1,
+    "num_tags": 1050,
+    "num_classes": 44,
+    "num_ids": 1
+  },
+  {
+    "id": 380,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\ReadingPane_jrSOVsby_4_s-mPxLjHHOQ2.css",
+    "fileSize": 3787,
+    "numLines": 1,
+    "num_tags": 678,
+    "num_classes": 44,
+    "num_ids": 4
+  },
+  {
+    "id": 381,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\wlx_sharedcpv2_D_h5ifFHKGkiBcVzTVjFXQ2.css",
+    "fileSize": 5039,
+    "numLines": 1,
+    "num_tags": 1040,
+    "num_classes": 48,
+    "num_ids": 4
+  },
+  {
+    "id": 382,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\wlx_sharedCtrl_lq23pdkTK5GoFT80chLcWQ2.css",
+    "fileSize": 98955,
+    "numLines": 1,
+    "num_tags": 18897,
+    "num_classes": 567,
+    "num_ids": 84
+  },
+  {
+    "id": 383,
+    "cssFile": "original-dataset\\Outlook.com\\index_files\\wlx_webimui_IqwKoi5iPGfo7SEvhEno9Q2.css",
+    "fileSize": 14272,
+    "numLines": 1,
+    "num_tags": 2826,
+    "num_classes": 139,
+    "num_ids": 26
+  },
+  {
+    "id": 384,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\compose1_fZJqD6umUxq_4eiLHzyWrw2.css",
+    "fileSize": 2816,
+    "numLines": 31,
+    "num_tags": 484,
+    "num_classes": 18,
+    "num_ids": 0
+  },
+  {
+    "id": 385,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\compose2_R4Ha4KywMFOLxUcznIpAvg2.css",
+    "fileSize": 464,
+    "numLines": 8,
+    "num_tags": 79,
+    "num_classes": 7,
+    "num_ids": 0
+  },
+  {
+    "id": 386,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\compose_EF6hezwvpCo2zV_eSD2qvg2.css",
+    "fileSize": 18339,
+    "numLines": 224,
+    "num_tags": 3456,
+    "num_classes": 136,
+    "num_ids": 17
+  },
+  {
+    "id": 387,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\hig_MJqPkmuVlyQyiOskXcyo0w2.css",
+    "fileSize": 23634,
+    "numLines": 303,
+    "num_tags": 4045,
+    "num_classes": 219,
+    "num_ids": 23
+  },
+  {
+    "id": 388,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\InboxAll1_TeCbX3p4gD60EkmrZUcKkw2.css",
+    "fileSize": 6111,
+    "numLines": 89,
+    "num_tags": 1103,
+    "num_classes": 61,
+    "num_ids": 8
+  },
+  {
+    "id": 389,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\InboxAll_qSAE_nw27gH1y0cjiFMW3w2.css",
+    "fileSize": 35649,
+    "numLines": 488,
+    "num_tags": 6150,
+    "num_classes": 362,
+    "num_ids": 28
+  },
+  {
+    "id": 390,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\modern.webkit.other.css",
+    "fileSize": 13672,
+    "numLines": 125,
+    "num_tags": 2261,
+    "num_classes": 81,
+    "num_ids": 1
+  },
+  {
+    "id": 391,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\PeoplePane_7WjbgRcWSiWKaiCnzP0avQ2.css",
+    "fileSize": 6405,
+    "numLines": 68,
+    "num_tags": 1071,
+    "num_classes": 44,
+    "num_ids": 1
+  },
+  {
+    "id": 392,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\wlx_sharedcpv2_D_h5ifFHKGkiBcVzTVjFXQ2.css",
+    "fileSize": 5999,
+    "numLines": 76,
+    "num_tags": 1060,
+    "num_classes": 48,
+    "num_ids": 0
+  },
+  {
+    "id": 393,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\wlx_sharedCtrl_lq23pdkTK5GoFT80chLcWQ2.css",
+    "fileSize": 107756,
+    "numLines": 1395,
+    "num_tags": 18030,
+    "num_classes": 547,
+    "num_ids": 47
+  },
+  {
+    "id": 394,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run1\\wlx_webimui_IqwKoi5iPGfo7SEvhEno9Q2.css",
+    "fileSize": 17261,
+    "numLines": 218,
+    "num_tags": 2952,
+    "num_classes": 139,
+    "num_ids": 7
+  },
+  {
+    "id": 395,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\compose1_fZJqD6umUxq_4eiLHzyWrw2.css",
+    "fileSize": 2816,
+    "numLines": 31,
+    "num_tags": 484,
+    "num_classes": 18,
+    "num_ids": 0
+  },
+  {
+    "id": 396,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\compose2_R4Ha4KywMFOLxUcznIpAvg2.css",
+    "fileSize": 464,
+    "numLines": 8,
+    "num_tags": 79,
+    "num_classes": 7,
+    "num_ids": 0
+  },
+  {
+    "id": 397,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\compose_EF6hezwvpCo2zV_eSD2qvg2.css",
+    "fileSize": 18122,
+    "numLines": 223,
+    "num_tags": 3413,
+    "num_classes": 136,
+    "num_ids": 17
+  },
+  {
+    "id": 398,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\hig_MJqPkmuVlyQyiOskXcyo0w2.css",
+    "fileSize": 22479,
+    "numLines": 290,
+    "num_tags": 3931,
+    "num_classes": 219,
+    "num_ids": 23
+  },
+  {
+    "id": 399,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\InboxAll1_TeCbX3p4gD60EkmrZUcKkw2.css",
+    "fileSize": 6063,
+    "numLines": 89,
+    "num_tags": 1089,
+    "num_classes": 61,
+    "num_ids": 8
+  },
+  {
+    "id": 400,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\InboxAll_qSAE_nw27gH1y0cjiFMW3w2.css",
+    "fileSize": 35607,
+    "numLines": 488,
+    "num_tags": 6135,
+    "num_classes": 362,
+    "num_ids": 28
+  },
+  {
+    "id": 401,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\modern.webkit.other.css",
+    "fileSize": 13665,
+    "numLines": 125,
+    "num_tags": 2255,
+    "num_classes": 81,
+    "num_ids": 1
+  },
+  {
+    "id": 402,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\PeoplePane_7WjbgRcWSiWKaiCnzP0avQ2.css",
+    "fileSize": 6398,
+    "numLines": 68,
+    "num_tags": 1065,
+    "num_classes": 44,
+    "num_ids": 1
+  },
+  {
+    "id": 403,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\wlx_sharedcpv2_D_h5ifFHKGkiBcVzTVjFXQ2.css",
+    "fileSize": 5923,
+    "numLines": 76,
+    "num_tags": 1045,
+    "num_classes": 48,
+    "num_ids": 0
+  },
+  {
+    "id": 404,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\wlx_sharedCtrl_lq23pdkTK5GoFT80chLcWQ2.css",
+    "fileSize": 105722,
+    "numLines": 1383,
+    "num_tags": 17742,
+    "num_classes": 547,
+    "num_ids": 47
+  },
+  {
+    "id": 405,
+    "cssFile": "original-dataset\\Outlook.com\\results\\run2\\wlx_webimui_IqwKoi5iPGfo7SEvhEno9Q2.css",
+    "fileSize": 17261,
+    "numLines": 218,
+    "num_tags": 2952,
+    "num_classes": 139,
+    "num_ids": 7
+  },
+  {
+    "id": 406,
+    "cssFile": "original-dataset\\Paypal\\css\\851cb2b63872f26533d84bd784d856f5b223672d.css",
+    "fileSize": 1388,
+    "numLines": 63,
+    "num_tags": 165,
+    "num_classes": 8,
+    "num_ids": 1
+  },
+  {
+    "id": 407,
+    "cssFile": "original-dataset\\Paypal\\css\\a220557ff55b69b1888f3b3be1064d6a39f0ed46.css",
+    "fileSize": 5029,
+    "numLines": 217,
+    "num_tags": 893,
+    "num_classes": 25,
+    "num_ids": 6
+  },
+  {
+    "id": 408,
+    "cssFile": "original-dataset\\Paypal\\css\\c1b3406326740565a710ce342ab5ec822a9bd3a6.css",
+    "fileSize": 137643,
+    "numLines": 5428,
+    "num_tags": 24108,
+    "num_classes": 497,
+    "num_ids": 28
+  },
+  {
+    "id": 409,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\851cb2b63872f26533d84bd784d856f5b223672d(1).css",
+    "fileSize": 665,
+    "numLines": 12,
+    "num_tags": 98,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 410,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\851cb2b63872f26533d84bd784d856f5b223672d.css",
+    "fileSize": 665,
+    "numLines": 12,
+    "num_tags": 98,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 411,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\a220557ff55b69b1888f3b3be1064d6a39f0ed46(1).css",
+    "fileSize": 4115,
+    "numLines": 48,
+    "num_tags": 819,
+    "num_classes": 23,
+    "num_ids": 4
+  },
+  {
+    "id": 412,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\a220557ff55b69b1888f3b3be1064d6a39f0ed46.css",
+    "fileSize": 4115,
+    "numLines": 48,
+    "num_tags": 819,
+    "num_classes": 23,
+    "num_ids": 4
+  },
+  {
+    "id": 413,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\c1b3406326740565a710ce342ab5ec822a9bd3a6(1).css",
+    "fileSize": 108130,
+    "numLines": 1154,
+    "num_tags": 21809,
+    "num_classes": 484,
+    "num_ids": 17
+  },
+  {
+    "id": 414,
+    "cssFile": "original-dataset\\Paypal\\results\\run1\\c1b3406326740565a710ce342ab5ec822a9bd3a6.css",
+    "fileSize": 108130,
+    "numLines": 1154,
+    "num_tags": 21820,
+    "num_classes": 484,
+    "num_ids": 17
+  },
+  {
+    "id": 415,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\851cb2b63872f26533d84bd784d856f5b223672d(1).css",
+    "fileSize": 665,
+    "numLines": 12,
+    "num_tags": 98,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 416,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\851cb2b63872f26533d84bd784d856f5b223672d.css",
+    "fileSize": 665,
+    "numLines": 12,
+    "num_tags": 98,
+    "num_classes": 5,
+    "num_ids": 0
+  },
+  {
+    "id": 417,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\a220557ff55b69b1888f3b3be1064d6a39f0ed46(1).css",
+    "fileSize": 4115,
+    "numLines": 48,
+    "num_tags": 819,
+    "num_classes": 23,
+    "num_ids": 4
+  },
+  {
+    "id": 418,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\a220557ff55b69b1888f3b3be1064d6a39f0ed46.css",
+    "fileSize": 4115,
+    "numLines": 48,
+    "num_tags": 819,
+    "num_classes": 23,
+    "num_ids": 4
+  },
+  {
+    "id": 419,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\c1b3406326740565a710ce342ab5ec822a9bd3a6(1).css",
+    "fileSize": 107670,
+    "numLines": 1147,
+    "num_tags": 21779,
+    "num_classes": 484,
+    "num_ids": 17
+  },
+  {
+    "id": 420,
+    "cssFile": "original-dataset\\Paypal\\results\\run2\\c1b3406326740565a710ce342ab5ec822a9bd3a6.css",
+    "fileSize": 107670,
+    "numLines": 1147,
+    "num_tags": 21773,
+    "num_classes": 484,
+    "num_ids": 17
+  },
+  {
+    "id": 421,
+    "cssFile": "original-dataset\\Phormer\\css\\ac1b9887a0bad4b4cda83f153e6942da0d46f449.css",
+    "fileSize": 10564,
+    "numLines": 141,
+    "num_tags": 1857,
+    "num_classes": 63,
+    "num_ids": 13
+  },
+  {
+    "id": 422,
+    "cssFile": "original-dataset\\Phormer\\results\\run1\\ac1b9887a0bad4b4cda83f153e6942da0d46f449.css",
+    "fileSize": 11876,
+    "numLines": 115,
+    "num_tags": 2075,
+    "num_classes": 62,
+    "num_ids": 11
+  },
+  {
+    "id": 423,
+    "cssFile": "original-dataset\\Phormer\\results\\run2\\ac1b9887a0bad4b4cda83f153e6942da0d46f449.css",
+    "fileSize": 11876,
+    "numLines": 115,
+    "num_tags": 2075,
+    "num_classes": 62,
+    "num_ids": 11
+  },
+  {
+    "id": 424,
+    "cssFile": "original-dataset\\Pinterest\\css\\46e30d4ce1d12273a1509262c354b8ca5242624d.css",
+    "fileSize": 62475,
+    "numLines": 7,
+    "num_tags": 12872,
+    "num_classes": 251,
+    "num_ids": 53
+  },
+  {
+    "id": 425,
+    "cssFile": "original-dataset\\Pinterest\\css\\4c48f074bf785689a97c92c6d3b2efcbca977112.css",
+    "fileSize": 24969,
+    "numLines": 963,
+    "num_tags": 3745,
+    "num_classes": 84,
+    "num_ids": 7
+  },
+  {
+    "id": 426,
+    "cssFile": "original-dataset\\Pinterest\\css\\93140f23942d95584b6a62390845151ac3107072.css",
+    "fileSize": 408138,
+    "numLines": 7,
+    "num_tags": 82298,
+    "num_classes": 1300,
+    "num_ids": 155
+  },
+  {
+    "id": 427,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\46e30d4ce1d12273a1509262c354b8ca5242624d(1).css",
+    "fileSize": 64901,
+    "numLines": 615,
+    "num_tags": 12197,
+    "num_classes": 238,
+    "num_ids": 2
+  },
+  {
+    "id": 428,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\46e30d4ce1d12273a1509262c354b8ca5242624d.css",
+    "fileSize": 64901,
+    "numLines": 615,
+    "num_tags": 12197,
+    "num_classes": 238,
+    "num_ids": 2
+  },
+  {
+    "id": 429,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\4c48f074bf785689a97c92c6d3b2efcbca977112(1).css",
+    "fileSize": 20809,
+    "numLines": 162,
+    "num_tags": 3208,
+    "num_classes": 80,
+    "num_ids": 0
+  },
+  {
+    "id": 430,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\4c48f074bf785689a97c92c6d3b2efcbca977112.css",
+    "fileSize": 20809,
+    "numLines": 162,
+    "num_tags": 3208,
+    "num_classes": 80,
+    "num_ids": 0
+  },
+  {
+    "id": 431,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\93140f23942d95584b6a62390845151ac3107072(1).css",
+    "fileSize": 429232,
+    "numLines": 3656,
+    "num_tags": 79521,
+    "num_classes": 1263,
+    "num_ids": 1
+  },
+  {
+    "id": 432,
+    "cssFile": "original-dataset\\Pinterest\\results\\run1\\93140f23942d95584b6a62390845151ac3107072.css",
+    "fileSize": 429232,
+    "numLines": 3656,
+    "num_tags": 79521,
+    "num_classes": 1263,
+    "num_ids": 1
+  },
+  {
+    "id": 433,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\46e30d4ce1d12273a1509262c354b8ca5242624d(1).css",
+    "fileSize": 64901,
+    "numLines": 615,
+    "num_tags": 12197,
+    "num_classes": 238,
+    "num_ids": 2
+  },
+  {
+    "id": 434,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\46e30d4ce1d12273a1509262c354b8ca5242624d.css",
+    "fileSize": 64901,
+    "numLines": 615,
+    "num_tags": 12197,
+    "num_classes": 238,
+    "num_ids": 2
+  },
+  {
+    "id": 435,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\4c48f074bf785689a97c92c6d3b2efcbca977112(1).css",
+    "fileSize": 20809,
+    "numLines": 162,
+    "num_tags": 3208,
+    "num_classes": 80,
+    "num_ids": 0
+  },
+  {
+    "id": 436,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\4c48f074bf785689a97c92c6d3b2efcbca977112.css",
+    "fileSize": 20809,
+    "numLines": 162,
+    "num_tags": 3208,
+    "num_classes": 80,
+    "num_ids": 0
+  },
+  {
+    "id": 437,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\93140f23942d95584b6a62390845151ac3107072(1).css",
+    "fileSize": 429232,
+    "numLines": 3656,
+    "num_tags": 79521,
+    "num_classes": 1263,
+    "num_ids": 1
+  },
+  {
+    "id": 438,
+    "cssFile": "original-dataset\\Pinterest\\results\\run2\\93140f23942d95584b6a62390845151ac3107072.css",
+    "fileSize": 429232,
+    "numLines": 3656,
+    "num_tags": 79521,
+    "num_classes": 1263,
+    "num_ids": 1
+  },
+  {
+    "id": 439,
+    "cssFile": "original-dataset\\ProToolsExpress\\css\\6db47187dd0fea2ecce2e32bea603ebc1c026ec0.css",
+    "fileSize": 90728,
+    "numLines": 3594,
+    "num_tags": 17749,
+    "num_classes": 281,
+    "num_ids": 111
+  },
+  {
+    "id": 440,
+    "cssFile": "original-dataset\\ProToolsExpress\\css\\7f37473ad6fcc1e84254bb44679fbabb982ba77a.css",
+    "fileSize": 4454,
+    "numLines": 163,
+    "num_tags": 748,
+    "num_classes": 37,
+    "num_ids": 9
+  },
+  {
+    "id": 441,
+    "cssFile": "original-dataset\\ProToolsExpress\\css\\802acac639a404e96ae643872e551045abd7c1c4.css",
+    "fileSize": 21339,
+    "numLines": 7,
+    "num_tags": 5478,
+    "num_classes": 124,
+    "num_ids": 33
+  },
+  {
+    "id": 442,
+    "cssFile": "original-dataset\\ProToolsExpress\\css\\a1e4f4bfbfa97c00ba6ad9cea12980710526e434.css",
+    "fileSize": 117794,
+    "numLines": 43,
+    "num_tags": 30958,
+    "num_classes": 446,
+    "num_ids": 33
+  },
+  {
+    "id": 443,
+    "cssFile": "original-dataset\\ProToolsExpress\\css\\fb20587e6224fdfdbdef09c2b84bf06e307a2202.css",
+    "fileSize": 1371,
+    "numLines": 95,
+    "num_tags": 229,
+    "num_classes": 16,
+    "num_ids": 6
+  },
+  {
+    "id": 444,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run1\\6db47187dd0fea2ecce2e32bea603ebc1c026ec0.css",
+    "fileSize": 89957,
+    "numLines": 900,
+    "num_tags": 17917,
+    "num_classes": 267,
+    "num_ids": 67
+  },
+  {
+    "id": 445,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run1\\7f37473ad6fcc1e84254bb44679fbabb982ba77a.css",
+    "fileSize": 3655,
+    "numLines": 41,
+    "num_tags": 639,
+    "num_classes": 35,
+    "num_ids": 8
+  },
+  {
+    "id": 446,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run1\\802acac639a404e96ae643872e551045abd7c1c4.css",
+    "fileSize": 25662,
+    "numLines": 242,
+    "num_tags": 5779,
+    "num_classes": 121,
+    "num_ids": 22
+  },
+  {
+    "id": 447,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run1\\a1e4f4bfbfa97c00ba6ad9cea12980710526e434.css",
+    "fileSize": 135817,
+    "numLines": 1078,
+    "num_tags": 32715,
+    "num_classes": 432,
+    "num_ids": 1
+  },
+  {
+    "id": 448,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run1\\fb20587e6224fdfdbdef09c2b84bf06e307a2202.css",
+    "fileSize": 986,
+    "numLines": 18,
+    "num_tags": 193,
+    "num_classes": 12,
+    "num_ids": 5
+  },
+  {
+    "id": 449,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run2\\6db47187dd0fea2ecce2e32bea603ebc1c026ec0.css",
+    "fileSize": 89171,
+    "numLines": 893,
+    "num_tags": 17795,
+    "num_classes": 267,
+    "num_ids": 67
+  },
+  {
+    "id": 450,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run2\\7f37473ad6fcc1e84254bb44679fbabb982ba77a.css",
+    "fileSize": 3655,
+    "numLines": 41,
+    "num_tags": 639,
+    "num_classes": 35,
+    "num_ids": 8
+  },
+  {
+    "id": 451,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run2\\802acac639a404e96ae643872e551045abd7c1c4.css",
+    "fileSize": 24713,
+    "numLines": 235,
+    "num_tags": 5632,
+    "num_classes": 121,
+    "num_ids": 22
+  },
+  {
+    "id": 452,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run2\\a1e4f4bfbfa97c00ba6ad9cea12980710526e434.css",
+    "fileSize": 134384,
+    "numLines": 1066,
+    "num_tags": 32483,
+    "num_classes": 432,
+    "num_ids": 1
+  },
+  {
+    "id": 453,
+    "cssFile": "original-dataset\\ProToolsExpress\\results\\run2\\fb20587e6224fdfdbdef09c2b84bf06e307a2202.css",
+    "fileSize": 986,
+    "numLines": 18,
+    "num_tags": 193,
+    "num_classes": 12,
+    "num_ids": 5
+  },
+  {
+    "id": 454,
+    "cssFile": "original-dataset\\Reddit\\css\\19907f91930fd2638d4a00efd12b0975e4b2c7dd.css",
+    "fileSize": 138370,
+    "numLines": 7,
+    "num_tags": 31257,
+    "num_classes": 754,
+    "num_ids": 157
+  },
+  {
+    "id": 455,
+    "cssFile": "original-dataset\\Reddit\\css\\c52e8294b321187adc4d670d70a418cd3eaf4e1a.css",
+    "fileSize": 457,
+    "numLines": 7,
+    "num_tags": 72,
+    "num_classes": 8,
+    "num_ids": 0
+  },
+  {
+    "id": 456,
+    "cssFile": "original-dataset\\Reddit\\results\\run1\\19907f91930fd2638d4a00efd12b0975e4b2c7dd(1).css",
+    "fileSize": 163908,
+    "numLines": 1804,
+    "num_tags": 32181,
+    "num_classes": 721,
+    "num_ids": 78
+  },
+  {
+    "id": 457,
+    "cssFile": "original-dataset\\Reddit\\results\\run1\\19907f91930fd2638d4a00efd12b0975e4b2c7dd.css",
+    "fileSize": 163908,
+    "numLines": 1804,
+    "num_tags": 32173,
+    "num_classes": 721,
+    "num_ids": 78
+  },
+  {
+    "id": 458,
+    "cssFile": "original-dataset\\Reddit\\results\\run1\\c52e8294b321187adc4d670d70a418cd3eaf4e1a(1).css",
+    "fileSize": 311,
+    "numLines": 3,
+    "num_tags": 55,
+    "num_classes": 6,
+    "num_ids": 0
+  },
+  {
+    "id": 459,
+    "cssFile": "original-dataset\\Reddit\\results\\run1\\c52e8294b321187adc4d670d70a418cd3eaf4e1a.css",
+    "fileSize": 311,
+    "numLines": 3,
+    "num_tags": 55,
+    "num_classes": 6,
+    "num_ids": 0
+  },
+  {
+    "id": 460,
+    "cssFile": "original-dataset\\Reddit\\results\\run2\\19907f91930fd2638d4a00efd12b0975e4b2c7dd(1).css",
+    "fileSize": 163132,
+    "numLines": 1795,
+    "num_tags": 32098,
+    "num_classes": 721,
+    "num_ids": 78
+  },
+  {
+    "id": 461,
+    "cssFile": "original-dataset\\Reddit\\results\\run2\\19907f91930fd2638d4a00efd12b0975e4b2c7dd.css",
+    "fileSize": 163132,
+    "numLines": 1795,
+    "num_tags": 32099,
+    "num_classes": 721,
+    "num_ids": 78
+  },
+  {
+    "id": 462,
+    "cssFile": "original-dataset\\Reddit\\results\\run2\\c52e8294b321187adc4d670d70a418cd3eaf4e1a(1).css",
+    "fileSize": 311,
+    "numLines": 3,
+    "num_tags": 55,
+    "num_classes": 6,
+    "num_ids": 0
+  },
+  {
+    "id": 463,
+    "cssFile": "original-dataset\\Reddit\\results\\run2\\c52e8294b321187adc4d670d70a418cd3eaf4e1a.css",
+    "fileSize": 311,
+    "numLines": 3,
+    "num_tags": 55,
+    "num_classes": 6,
+    "num_ids": 0
+  },
+  {
+    "id": 464,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\index_files\\rijksmuseum-web-fonts.css",
+    "fileSize": 3929,
+    "numLines": 132,
+    "num_tags": 536,
+    "num_classes": 19,
+    "num_ids": 2
+  },
+  {
+    "id": 465,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\index_files\\rijksmuseum-web.css",
+    "fileSize": 192117,
+    "numLines": 9332,
+    "num_tags": 35242,
+    "num_classes": 929,
+    "num_ids": 15
+  },
+  {
+    "id": 466,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run1\\rijksmuseum-web(1).css",
+    "fileSize": 152078,
+    "numLines": 2138,
+    "num_tags": 30914,
+    "num_classes": 905,
+    "num_ids": 5
+  },
+  {
+    "id": 467,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run1\\rijksmuseum-web-fonts(1).css",
+    "fileSize": 2996,
+    "numLines": 52,
+    "num_tags": 423,
+    "num_classes": 18,
+    "num_ids": 2
+  },
+  {
+    "id": 468,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run1\\rijksmuseum-web-fonts.css",
+    "fileSize": 2996,
+    "numLines": 52,
+    "num_tags": 423,
+    "num_classes": 18,
+    "num_ids": 2
+  },
+  {
+    "id": 469,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run1\\rijksmuseum-web.css",
+    "fileSize": 152094,
+    "numLines": 2138,
+    "num_tags": 30894,
+    "num_classes": 905,
+    "num_ids": 5
+  },
+  {
+    "id": 470,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run2\\rijksmuseum-web(1).css",
+    "fileSize": 151227,
+    "numLines": 2130,
+    "num_tags": 30783,
+    "num_classes": 905,
+    "num_ids": 5
+  },
+  {
+    "id": 471,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run2\\rijksmuseum-web-fonts(1).css",
+    "fileSize": 2996,
+    "numLines": 52,
+    "num_tags": 423,
+    "num_classes": 18,
+    "num_ids": 2
+  },
+  {
+    "id": 472,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run2\\rijksmuseum-web-fonts.css",
+    "fileSize": 2996,
+    "numLines": 52,
+    "num_tags": 423,
+    "num_classes": 18,
+    "num_ids": 2
+  },
+  {
+    "id": 473,
+    "cssFile": "original-dataset\\Rijksmuseum.nl\\results\\run2\\rijksmuseum-web.css",
+    "fileSize": 151243,
+    "numLines": 2130,
+    "num_tags": 30755,
+    "num_classes": 905,
+    "num_ids": 5
+  },
+  {
+    "id": 474,
+    "cssFile": "original-dataset\\Staples\\css\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 8557,
+    "numLines": 7,
+    "num_tags": 1916,
+    "num_classes": 58,
+    "num_ids": 72
+  },
+  {
+    "id": 475,
+    "cssFile": "original-dataset\\Staples\\css\\4dc2df8f4bfb9eaa5631a604eb1802f4b9a411d6.css",
+    "fileSize": 13032,
+    "numLines": 7,
+    "num_tags": 2679,
+    "num_classes": 65,
+    "num_ids": 49
+  },
+  {
+    "id": 476,
+    "cssFile": "original-dataset\\Staples\\css\\9b8a386a54f865bcfc7cbb6d5fc5e05090deb4cf.css",
+    "fileSize": 7310,
+    "numLines": 7,
+    "num_tags": 1527,
+    "num_classes": 20,
+    "num_ids": 36
+  },
+  {
+    "id": 477,
+    "cssFile": "original-dataset\\Staples\\css\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 183661,
+    "numLines": 7,
+    "num_tags": 36334,
+    "num_classes": 552,
+    "num_ids": 278
+  },
+  {
+    "id": 478,
+    "cssFile": "original-dataset\\Staples\\css\\d9ff4a0b55e312b9eef30a69f4f6a778234b0601.css",
+    "fileSize": 161590,
+    "numLines": 7,
+    "num_tags": 33794,
+    "num_classes": 537,
+    "num_ids": 356
+  },
+  {
+    "id": 479,
+    "cssFile": "original-dataset\\Staples\\results\\run1\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 9618,
+    "numLines": 78,
+    "num_tags": 1939,
+    "num_classes": 55,
+    "num_ids": 65
+  },
+  {
+    "id": 480,
+    "cssFile": "original-dataset\\Staples\\results\\run1\\4dc2df8f4bfb9eaa5631a604eb1802f4b9a411d6.css",
+    "fileSize": 15740,
+    "numLines": 139,
+    "num_tags": 2924,
+    "num_classes": 56,
+    "num_ids": 26
+  },
+  {
+    "id": 481,
+    "cssFile": "original-dataset\\Staples\\results\\run1\\9b8a386a54f865bcfc7cbb6d5fc5e05090deb4cf.css",
+    "fileSize": 9226,
+    "numLines": 75,
+    "num_tags": 1658,
+    "num_classes": 17,
+    "num_ids": 17
+  },
+  {
+    "id": 482,
+    "cssFile": "original-dataset\\Staples\\results\\run1\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 227379,
+    "numLines": 2437,
+    "num_tags": 39762,
+    "num_classes": 532,
+    "num_ids": 172
+  },
+  {
+    "id": 483,
+    "cssFile": "original-dataset\\Staples\\results\\run1\\d9ff4a0b55e312b9eef30a69f4f6a778234b0601.css",
+    "fileSize": 189138,
+    "numLines": 1700,
+    "num_tags": 35463,
+    "num_classes": 524,
+    "num_ids": 224
+  },
+  {
+    "id": 484,
+    "cssFile": "original-dataset\\Staples\\results\\run2\\0b4ff5b5b31e80039ac3cce8f9ca6237ed92a538.css",
+    "fileSize": 9618,
+    "numLines": 78,
+    "num_tags": 1939,
+    "num_classes": 55,
+    "num_ids": 65
+  },
+  {
+    "id": 485,
+    "cssFile": "original-dataset\\Staples\\results\\run2\\4dc2df8f4bfb9eaa5631a604eb1802f4b9a411d6.css",
+    "fileSize": 15678,
+    "numLines": 139,
+    "num_tags": 2909,
+    "num_classes": 56,
+    "num_ids": 26
+  },
+  {
+    "id": 486,
+    "cssFile": "original-dataset\\Staples\\results\\run2\\9b8a386a54f865bcfc7cbb6d5fc5e05090deb4cf.css",
+    "fileSize": 8788,
+    "numLines": 71,
+    "num_tags": 1600,
+    "num_classes": 17,
+    "num_ids": 17
+  },
+  {
+    "id": 487,
+    "cssFile": "original-dataset\\Staples\\results\\run2\\d2d0c126e221862f95d864a277f51ca3d4295385.css",
+    "fileSize": 225600,
+    "numLines": 2426,
+    "num_tags": 39495,
+    "num_classes": 532,
+    "num_ids": 172
+  },
+  {
+    "id": 488,
+    "cssFile": "original-dataset\\Staples\\results\\run2\\d9ff4a0b55e312b9eef30a69f4f6a778234b0601.css",
+    "fileSize": 184713,
+    "numLines": 1647,
+    "num_tags": 34966,
+    "num_classes": 524,
+    "num_ids": 224
+  },
+  {
+    "id": 489,
+    "cssFile": "original-dataset\\SyncCreative\\css\\0e6fedfab56593cd6d0ea0bd8dee80454585b2af.css",
+    "fileSize": 387,
+    "numLines": 7,
+    "num_tags": 39,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 490,
+    "cssFile": "original-dataset\\SyncCreative\\css\\b4ad21b4c1ba99451234f5e3da9a501a50dac0fe.css",
+    "fileSize": 1038,
+    "numLines": 31,
+    "num_tags": 158,
+    "num_classes": 3,
+    "num_ids": 0
+  },
+  {
+    "id": 491,
+    "cssFile": "original-dataset\\SyncCreative\\css\\layout.css",
+    "fileSize": 14716,
+    "numLines": 285,
+    "num_tags": 2912,
+    "num_classes": 43,
+    "num_ids": 42
+  },
+  {
+    "id": 492,
+    "cssFile": "original-dataset\\SyncCreative\\css\\reset.css",
+    "fileSize": 1043,
+    "numLines": 29,
+    "num_tags": 218,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 493,
+    "cssFile": "original-dataset\\SyncCreative\\css\\type.css",
+    "fileSize": 2463,
+    "numLines": 48,
+    "num_tags": 406,
+    "num_classes": 7,
+    "num_ids": 5
+  },
+  {
+    "id": 494,
+    "cssFile": "original-dataset\\SyncCreative\\css\\user.css",
+    "fileSize": 17226,
+    "numLines": 272,
+    "num_tags": 3356,
+    "num_classes": 43,
+    "num_ids": 35
+  },
+  {
+    "id": 495,
+    "cssFile": "original-dataset\\SyncCreative\\results\\run1\\0e6fedfab56593cd6d0ea0bd8dee80454585b2af.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 496,
+    "cssFile": "original-dataset\\SyncCreative\\results\\run1\\b4ad21b4c1ba99451234f5e3da9a501a50dac0fe.css",
+    "fileSize": 103,
+    "numLines": 5,
+    "num_tags": 29,
+    "num_classes": 1,
+    "num_ids": 0
+  },
+  {
+    "id": 497,
+    "cssFile": "original-dataset\\SyncCreative\\results\\run2\\0e6fedfab56593cd6d0ea0bd8dee80454585b2af.css",
+    "fileSize": 0,
+    "numLines": 1,
+    "num_tags": 0,
+    "num_classes": 0,
+    "num_ids": 0
+  },
+  {
+    "id": 498,
+    "cssFile": "original-dataset\\SyncCreative\\results\\run2\\b4ad21b4c1ba99451234f5e3da9a501a50dac0fe.css",
+    "fileSize": 103,
+    "numLines": 5,
+    "num_tags": 29,
+    "num_classes": 1,
+    "num_ids": 0
+  },
+  {
+    "id": 499,
+    "cssFile": "original-dataset\\Tumblr.com\\css\\03325ac9a65b3bbf660770db20e16d56801f5044.css",
+    "fileSize": 4919,
+    "numLines": 8,
+    "num_tags": 1067,
+    "num_classes": 25,
+    "num_ids": 10
+  },
+  {
+    "id": 500,
+    "cssFile": "original-dataset\\Tumblr.com\\css\\72b90f6c6d1a25738eb650357365128fc7dc5c75.css",
+    "fileSize": 8006,
+    "numLines": 9,
+    "num_tags": 1777,
+    "num_classes": 40,
+    "num_ids": 13
+  },
+  {
+    "id": 501,
+    "cssFile": "original-dataset\\Tumblr.com\\css\\98959ff33d9290f0250de3eb6839b35f995cf820.css",
+    "fileSize": 35276,
+    "numLines": 10,
+    "num_tags": 8292,
+    "num_classes": 127,
+    "num_ids": 34
+  },
+  {
+    "id": 502,
+    "cssFile": "original-dataset\\Tumblr.com\\css\\f365c061d482cc5ac3230cc42f814f07e90f2aff.css",
+    "fileSize": 157578,
+    "numLines": 33,
+    "num_tags": 25699,
+    "num_classes": 361,
+    "num_ids": 93
+  },
+  {
+    "id": 503,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\03325ac9a65b3bbf660770db20e16d56801f5044(1).css",
+    "fileSize": 4071,
+    "numLines": 32,
+    "num_tags": 805,
+    "num_classes": 22,
+    "num_ids": 10
+  },
+  {
+    "id": 504,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\03325ac9a65b3bbf660770db20e16d56801f5044.css",
+    "fileSize": 4071,
+    "numLines": 32,
+    "num_tags": 805,
+    "num_classes": 22,
+    "num_ids": 10
+  },
+  {
+    "id": 505,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\72b90f6c6d1a25738eb650357365128fc7dc5c75(1).css",
+    "fileSize": 8137,
+    "numLines": 93,
+    "num_tags": 1625,
+    "num_classes": 35,
+    "num_ids": 5
+  },
+  {
+    "id": 506,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\72b90f6c6d1a25738eb650357365128fc7dc5c75.css",
+    "fileSize": 8137,
+    "numLines": 93,
+    "num_tags": 1624,
+    "num_classes": 35,
+    "num_ids": 5
+  },
+  {
+    "id": 507,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\98959ff33d9290f0250de3eb6839b35f995cf820(1).css",
+    "fileSize": 33581,
+    "numLines": 256,
+    "num_tags": 7204,
+    "num_classes": 121,
+    "num_ids": 18
+  },
+  {
+    "id": 508,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\98959ff33d9290f0250de3eb6839b35f995cf820.css",
+    "fileSize": 33515,
+    "numLines": 255,
+    "num_tags": 7187,
+    "num_classes": 121,
+    "num_ids": 18
+  },
+  {
+    "id": 509,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\f365c061d482cc5ac3230cc42f814f07e90f2aff(1).css",
+    "fileSize": 153040,
+    "numLines": 1091,
+    "num_tags": 22566,
+    "num_classes": 349,
+    "num_ids": 43
+  },
+  {
+    "id": 510,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run1\\f365c061d482cc5ac3230cc42f814f07e90f2aff.css",
+    "fileSize": 153040,
+    "numLines": 1091,
+    "num_tags": 22564,
+    "num_classes": 349,
+    "num_ids": 43
+  },
+  {
+    "id": 511,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\03325ac9a65b3bbf660770db20e16d56801f5044(1).css",
+    "fileSize": 4071,
+    "numLines": 32,
+    "num_tags": 805,
+    "num_classes": 22,
+    "num_ids": 10
+  },
+  {
+    "id": 512,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\03325ac9a65b3bbf660770db20e16d56801f5044.css",
+    "fileSize": 4071,
+    "numLines": 32,
+    "num_tags": 805,
+    "num_classes": 22,
+    "num_ids": 10
+  },
+  {
+    "id": 513,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\72b90f6c6d1a25738eb650357365128fc7dc5c75(1).css",
+    "fileSize": 8137,
+    "numLines": 93,
+    "num_tags": 1627,
+    "num_classes": 35,
+    "num_ids": 5
+  },
+  {
+    "id": 514,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\72b90f6c6d1a25738eb650357365128fc7dc5c75.css",
+    "fileSize": 8137,
+    "numLines": 93,
+    "num_tags": 1625,
+    "num_classes": 35,
+    "num_ids": 5
+  },
+  {
+    "id": 515,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\98959ff33d9290f0250de3eb6839b35f995cf820(1).css",
+    "fileSize": 33117,
+    "numLines": 252,
+    "num_tags": 7116,
+    "num_classes": 121,
+    "num_ids": 18
+  },
+  {
+    "id": 516,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\98959ff33d9290f0250de3eb6839b35f995cf820.css",
+    "fileSize": 33051,
+    "numLines": 251,
+    "num_tags": 7100,
+    "num_classes": 121,
+    "num_ids": 18
+  },
+  {
+    "id": 517,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\f365c061d482cc5ac3230cc42f814f07e90f2aff(1).css",
+    "fileSize": 153040,
+    "numLines": 1091,
+    "num_tags": 22565,
+    "num_classes": 349,
+    "num_ids": 43
+  },
+  {
+    "id": 518,
+    "cssFile": "original-dataset\\Tumblr.com\\results\\run2\\f365c061d482cc5ac3230cc42f814f07e90f2aff.css",
+    "fileSize": 153040,
+    "numLines": 1091,
+    "num_tags": 22564,
+    "num_classes": 349,
+    "num_ids": 43
+  },
+  {
+    "id": 519,
+    "cssFile": "original-dataset\\Twitter\\index_files\\rosetta_core.bundle.css",
+    "fileSize": 207967,
+    "numLines": 40,
+    "num_tags": 42357,
+    "num_classes": 1143,
+    "num_ids": 112
+  },
+  {
+    "id": 520,
+    "cssFile": "original-dataset\\Twitter\\results\\run1\\rosetta_core.bundle.css",
+    "fileSize": 240750,
+    "numLines": 2375,
+    "num_tags": 43566,
+    "num_classes": 1093,
+    "num_ids": 21
+  },
+  {
+    "id": 521,
+    "cssFile": "original-dataset\\Twitter\\results\\run2\\rosetta_core.bundle.css",
+    "fileSize": 238331,
+    "numLines": 2347,
+    "num_tags": 43260,
+    "num_classes": 1093,
+    "num_ids": 21
+  },
+  {
+    "id": 522,
+    "cssFile": "original-dataset\\UniqueVanities\\css\\1cbebf4cc7f2a74ae77c42b4bd861acace718044.css",
+    "fileSize": 9207,
+    "numLines": 55,
+    "num_tags": 2014,
+    "num_classes": 60,
+    "num_ids": 10
+  },
+  {
+    "id": 523,
+    "cssFile": "original-dataset\\UniqueVanities\\css\\cd8aea2010ac1029997147626e4169e0d8e7f07b.css",
+    "fileSize": 4082,
+    "numLines": 150,
+    "num_tags": 730,
+    "num_classes": 23,
+    "num_ids": 3
+  },
+  {
+    "id": 524,
+    "cssFile": "original-dataset\\UniqueVanities\\css\\f7ff40363d6fb41fa38c031d21f062c3cb0a11e8.css",
+    "fileSize": 15325,
+    "numLines": 883,
+    "num_tags": 2338,
+    "num_classes": 21,
+    "num_ids": 67
+  },
+  {
+    "id": 525,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run1\\1cbebf4cc7f2a74ae77c42b4bd861acace718044.css",
+    "fileSize": 10508,
+    "numLines": 100,
+    "num_tags": 2050,
+    "num_classes": 59,
+    "num_ids": 6
+  },
+  {
+    "id": 526,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run1\\cd8aea2010ac1029997147626e4169e0d8e7f07b.css",
+    "fileSize": 3961,
+    "numLines": 33,
+    "num_tags": 710,
+    "num_classes": 20,
+    "num_ids": 2
+  },
+  {
+    "id": 527,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run1\\f7ff40363d6fb41fa38c031d21f062c3cb0a11e8.css",
+    "fileSize": 11065,
+    "numLines": 98,
+    "num_tags": 1804,
+    "num_classes": 16,
+    "num_ids": 60
+  },
+  {
+    "id": 528,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run2\\1cbebf4cc7f2a74ae77c42b4bd861acace718044.css",
+    "fileSize": 10508,
+    "numLines": 100,
+    "num_tags": 2050,
+    "num_classes": 59,
+    "num_ids": 6
+  },
+  {
+    "id": 529,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run2\\cd8aea2010ac1029997147626e4169e0d8e7f07b.css",
+    "fileSize": 3961,
+    "numLines": 33,
+    "num_tags": 710,
+    "num_classes": 20,
+    "num_ids": 2
+  },
+  {
+    "id": 530,
+    "cssFile": "original-dataset\\UniqueVanities\\results\\run2\\f7ff40363d6fb41fa38c031d21f062c3cb0a11e8.css",
+    "fileSize": 11065,
+    "numLines": 98,
+    "num_tags": 1804,
+    "num_classes": 16,
+    "num_ids": 60
+  },
+  {
+    "id": 531,
+    "cssFile": "original-dataset\\Vimeo.com\\css\\ce47fb9bced33d29e2fccb6b7da9a2d5e67dba9c.css",
+    "fileSize": 13717,
+    "numLines": 7,
+    "num_tags": 2872,
+    "num_classes": 48,
+    "num_ids": 30
+  },
+  {
+    "id": 532,
+    "cssFile": "original-dataset\\Vimeo.com\\css\\dc1d64a22801be6025a9321f7a2bdafd1c6ff680.css",
+    "fileSize": 132452,
+    "numLines": 7,
+    "num_tags": 30287,
+    "num_classes": 765,
+    "num_ids": 117
+  },
+  {
+    "id": 533,
+    "cssFile": "original-dataset\\Vimeo.com\\css\\f0b6c1d2bfac9bcba2d1cbb6341f3b53d6ab3c07.css",
+    "fileSize": 69630,
+    "numLines": 8,
+    "num_tags": 14393,
+    "num_classes": 152,
+    "num_ids": 21
+  },
+  {
+    "id": 534,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run1\\ce47fb9bced33d29e2fccb6b7da9a2d5e67dba9c.css",
+    "fileSize": 14695,
+    "numLines": 168,
+    "num_tags": 2728,
+    "num_classes": 43,
+    "num_ids": 19
+  },
+  {
+    "id": 535,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run1\\dc1d64a22801be6025a9321f7a2bdafd1c6ff680.css",
+    "fileSize": 154827,
+    "numLines": 1669,
+    "num_tags": 30267,
+    "num_classes": 701,
+    "num_ids": 63
+  },
+  {
+    "id": 536,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run1\\f0b6c1d2bfac9bcba2d1cbb6341f3b53d6ab3c07.css",
+    "fileSize": 54805,
+    "numLines": 723,
+    "num_tags": 10047,
+    "num_classes": 138,
+    "num_ids": 2
+  },
+  {
+    "id": 537,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run2\\ce47fb9bced33d29e2fccb6b7da9a2d5e67dba9c.css",
+    "fileSize": 14476,
+    "numLines": 167,
+    "num_tags": 2683,
+    "num_classes": 43,
+    "num_ids": 19
+  },
+  {
+    "id": 538,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run2\\dc1d64a22801be6025a9321f7a2bdafd1c6ff680.css",
+    "fileSize": 152982,
+    "numLines": 1651,
+    "num_tags": 30018,
+    "num_classes": 701,
+    "num_ids": 63
+  },
+  {
+    "id": 539,
+    "cssFile": "original-dataset\\Vimeo.com\\results\\run2\\f0b6c1d2bfac9bcba2d1cbb6341f3b53d6ab3c07.css",
+    "fileSize": 54764,
+    "numLines": 723,
+    "num_tags": 10039,
+    "num_classes": 138,
+    "num_ids": 2
+  },
+  {
+    "id": 540,
+    "cssFile": "original-dataset\\Wordpress.org\\css\\3076ba4f028dc6fc9c29f390288e9203f8de2b8b.css",
+    "fileSize": 337,
+    "numLines": 10,
+    "num_tags": 57,
+    "num_classes": 3,
+    "num_ids": 2
+  },
+  {
+    "id": 541,
+    "cssFile": "original-dataset\\Wordpress.org\\css\\54a61f566b7089e215632df905b009b2933dde64.css",
+    "fileSize": 33132,
+    "numLines": 1737,
+    "num_tags": 6266,
+    "num_classes": 92,
+    "num_ids": 50
+  },
+  {
+    "id": 542,
+    "cssFile": "original-dataset\\Wordpress.org\\css\\9fdfccfba0e453a532af9ce52180e2d1ba114f20.css",
+    "fileSize": 2002,
+    "numLines": 43,
+    "num_tags": 311,
+    "num_classes": 4,
+    "num_ids": 0
+  },
+  {
+    "id": 543,
+    "cssFile": "original-dataset\\Wordpress.org\\css\\b0622e764fbbbf748261551b1d0d4b51d88ed22f.css",
+    "fileSize": 36283,
+    "numLines": 767,
+    "num_tags": 4006,
+    "num_classes": 171,
+    "num_ids": 1
+  },
+  {
+    "id": 544,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run1\\3076ba4f028dc6fc9c29f390288e9203f8de2b8b.css",
+    "fileSize": 105,
+    "numLines": 3,
+    "num_tags": 23,
+    "num_classes": 1,
+    "num_ids": 2
+  },
+  {
+    "id": 545,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run1\\54a61f566b7089e215632df905b009b2933dde64.css",
+    "fileSize": 32078,
+    "numLines": 312,
+    "num_tags": 6248,
+    "num_classes": 90,
+    "num_ids": 31
+  },
+  {
+    "id": 546,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run1\\9fdfccfba0e453a532af9ce52180e2d1ba114f20.css",
+    "fileSize": 1681,
+    "numLines": 37,
+    "num_tags": 257,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 547,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run1\\b0622e764fbbbf748261551b1d0d4b51d88ed22f.css",
+    "fileSize": 35651,
+    "numLines": 183,
+    "num_tags": 4073,
+    "num_classes": 169,
+    "num_ids": 1
+  },
+  {
+    "id": 548,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run2\\3076ba4f028dc6fc9c29f390288e9203f8de2b8b.css",
+    "fileSize": 105,
+    "numLines": 3,
+    "num_tags": 23,
+    "num_classes": 1,
+    "num_ids": 2
+  },
+  {
+    "id": 549,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run2\\54a61f566b7089e215632df905b009b2933dde64.css",
+    "fileSize": 31796,
+    "numLines": 309,
+    "num_tags": 6219,
+    "num_classes": 90,
+    "num_ids": 31
+  },
+  {
+    "id": 550,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run2\\9fdfccfba0e453a532af9ce52180e2d1ba114f20.css",
+    "fileSize": 1681,
+    "numLines": 37,
+    "num_tags": 257,
+    "num_classes": 2,
+    "num_ids": 0
+  },
+  {
+    "id": 551,
+    "cssFile": "original-dataset\\Wordpress.org\\results\\run2\\b0622e764fbbbf748261551b1d0d4b51d88ed22f.css",
+    "fileSize": 35651,
+    "numLines": 183,
+    "num_tags": 4073,
+    "num_classes": 169,
+    "num_ids": 1
+  }
+]
